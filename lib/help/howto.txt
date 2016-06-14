@@ -1,0 +1,5 @@
+If you want to play a game, type !play and wait for other players. As soon as enough players (2) have requested to play, a debounced countdown will start during which further players can join the game.
+
+If you don't know the answer to a question, you can !revolt. If >50% of the players revolt, the question is resolved.
+
+You can always quit a game with !quit or by leaving the channel.

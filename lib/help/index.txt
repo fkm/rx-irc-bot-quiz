@@ -1,0 +1,4 @@
+RxBot Quiz Help
+!help commands   Show available commands.
+!help howto      First draft for an introduction.
+!help todo       What's still missing.

@@ -1,0 +1,24 @@
+{
+  "name": "@rx-irc/bot-quiz",
+  "description": "Trivia (quiz) module for RxBot.",
+  "version": "0.0.0",
+  "license": "MIT",
+  "author": "Florian Mäder <florian@maederbiel.ch>",
+  "main": "lib/module.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "release": {
+    "extends": "@fkm/semantic-release-config"
+  },
+  "dependencies": {
+    "assert": "^2.0.0",
+    "irc-colors": "^1.5.0",
+    "knuth-shuffle": "^1.0.8",
+    "rxjs": "^6.6.7",
+    "yaml": "^1.10.2"
+  },
+  "devDependencies": {
+    "@fkm/semantic-release-config": "^1.0.1"
+  }
+}

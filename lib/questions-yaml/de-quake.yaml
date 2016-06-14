@@ -1,0 +1,4076 @@
+title: quake
+comment: >-
+  These questions were provided by the ppl on #quiz
+  a german quizchannel on EU-IRC (irc.euirc.net).
+  Edited by Moxon.
+author: Quake <quake@giga4u.de>
+lastEdit: 2002/01/24 03:29:32
+language: de
+
+questions:
+- category: Astronomie
+  question: Auf welchem Planeten in unserem Sonnensystem wehen die stärksten Winde?
+  answer: Neptun
+
+- category: Astronomie
+  question: Auf welcher Bahn umkreist die Sonne das galaktische Zentrum?
+  answer: Ellipse
+
+- category: Astronomie
+  question: Bei welcher Mondphase kann eine Mondfinsternis nur stattfinden?
+  answer: Vollmond
+
+- question: Auf was fuer ein sportliches Ereignis gruendet sich das Muenchner Oktoberfest?
+  answer: Galopprennen
+  author: proll
+
+- category: Astronomie
+  question: Bei welcher Mondphase kann eine Sonnenfinsternis nur stattfinden?
+  answer: Neumond
+
+- category: Astronomie
+  question: In welchem Sternbild befindet sich der Stern Aldebaran?
+  answer: Stier
+
+- category: Astronomie
+  question: Nenne einen Planeten unseres Sonnensystems!
+  answer: Erde
+
+- category: Astronomie
+  question: Nenne einen Planeten unseres Sonnensystems!
+  answer: Jupiter
+
+- category: Astronomie
+  question: Nenne einen Planeten unseres Sonnensystems!
+  answer: Mars
+
+- category: Astronomie
+  question: Nenne einen Planeten unseres Sonnensystems!
+  answer: Merkur
+
+- category: Astronomie
+  question: Nenne einen Planeten unseres Sonnensystems!
+  answer: Neptun
+
+- category: Astronomie
+  question: Nenne einen Planeten unseres Sonnensystems!
+  answer: Pluto
+
+- category: Astronomie
+  question: Nenne einen Planeten unseres Sonnensystems!
+  answer: Saturn
+
+- category: Astronomie
+  question: Nenne einen Planeten unseres Sonnensystems!
+  answer: Uranus
+
+- category: Astronomie
+  question: Nenne einen Planeten unseres Sonnensystems!
+  answer: Venus
+
+- category: Astronomie
+  question: Wann wurde der erste künstliche Satellit (Sputnik I) in den Weltraum geschossen?
+  answer: "1957"
+
+- category: Astronomie
+  question: Was heißt der Mond auf lateinisch?
+  answer: Luna
+
+- category: Astronomie
+  question: Welche physikalische Eigenschaft ist bei Neutronensternen und Schwarzen Löchern besonders groß?
+  answer: Dichte
+
+- category: Astronomie
+  question: Welcher Begriff verbirgt sich hinter dem Kürzel ESA?
+  answer: European Space Agency
+
+- category: Astronomie
+  question: Welcher Planet ist auch als Morgen- oder Abendstern bekannt?
+  answer: Venus
+
+- category: Astronomie
+  question: Welcher Planet ist der größte in unserem Sonnensystem?
+  answer: Jupiter
+
+- category: Astronomie
+  question: Welcher Planet ist der kleinste in unserem Sonnensystem?
+  answer: Pluto
+
+- category: Astronomie
+  question: Welcher Planet unseres Sonnensystems besitzt das markante Kennzeichen in Form eines Ringes?
+  answer: Saturn
+
+- category: Astronomie
+  question: Welcher Planet wurde als erstes nach der Erfindung des Fernrohrs entdeckt?
+  answer: Uranus
+
+- category: Astronomie
+  question: Welcher Strahlenkranz der Sonne ist bei einer Sonnenfinsternis besonders gut zu sehen?
+  answer: Korona
+
+- category: Astronomie
+  question: Welches ist das größte Tierkreis-Sternbild?
+  answer: Jungfrau
+
+- category: Astronomie
+  question: Welches ist der erdähnlichste Planet in unserem Sonnensystem?
+  answer: Mars
+
+- category: Astronomie
+  question: Welches ist der größte bislang gefundene Stern?
+  answer: Beteigeuze
+
+- category: Astronomie
+  question: Welches ist der heißeste und hellste Planet in unserem Sonnensystem?
+  answer: Venus
+
+- category: Astronomie
+  question: Welches ist der nächstegelegene Stern von der Sonne aus?
+  answer: Proxima Centauri
+
+- category: Astronomie
+  question: Welches ist der äußerste Planet unseres Sonnensystems?
+  answer: Pluto
+
+- category: Astronomie
+  question: Welches ist die kleinste Sternbildkonstellation?
+  answer: Kreuz des Südens
+
+- category: Astronomie
+  question: Wer ist "schuld" an den Gezeiten?
+  answer: Mond
+
+- category: Astronomie
+  question: Wer war der erste Amerikaner im Weltraum? (voller Name)
+  answer: John Glenn
+
+- category: Astronomie
+  question: Wer war der erste Mensch auf dem Mond?
+  answer: Armstrong
+
+- category: Astronomie
+  question: Wer war der erste Mensch überhaupt im Weltraum?
+  answer: Gagarin
+
+- category: Astronomie
+  question: Wie alt ist die Sonne in etwa? (in Jahren)
+  answer: 5 Milliarden
+  regexp: (5|fuenf)
+
+- category: Astronomie
+  question: Wie groß ist der Durchmesser der Sonne (gerundet in km)?
+  answer: "1400000"
+
+- category: Astronomie
+  question: Wie groß ist die Milchstraße?
+  answer: 100000 Lichtjahre
+
+- category: Astronomie
+  question: Wie heißt der Hauptstern im Skorpion?
+  answer: Antares
+  regexp: (Antares|Gegenmars)
+
+- category: Astronomie
+  question: Wie heißt der einzige Mond des Pluto?
+  answer: Charon
+
+- category: Astronomie
+  question: Wie heißt der nächste mit bloßem Auge sichtbare Stern?
+  answer: Alpha Centauri
+
+- category: Astronomie
+  question: Wie heißt kann es in der Sonne werden? (in Grad Celsius)
+  answer: 15 Millionen
+
+- category: Astronomie
+  question: Wie heißt unsere Galaxis?
+  answer: Milchstraße
+
+- category: Astronomie
+  question: Wie lange benötigt der Jupiter für einen vollständigen Umlauf um die Sonne? (ausschreiben)
+  answer: zwölf Jahre
+
+- category: Astronomie
+  question: Wie lange benötigt der Neptun für einen vollständigen Umlauf um die Sonne? (ausschreiben)
+  answer: 165 Jahre
+
+- category: Astronomie
+  question: Wie lange braucht das Licht der Sonne bis zur Erde? (ausschreiben)
+  answer: acht Minuten
+  author: proll
+  level: easy
+
+- category: Astronomie
+  question: Wie nennt man Bereiche in der Sonnen-Photosphäre, die statt der üblichen 5500°C "nur" 4000°C aufweisen?
+  answer: Sonnenflecken
+
+- category: Astronomie
+  question: Wie nennt man Himmelskörper, die selbst leuchten?
+  answer: Sterne
+
+- category: Astronomie
+  question: Wie nennt man die ausgedehnten dunklen Ebenen auf dem Mond?
+  answer: Mondmeere
+
+- category: Astronomie
+  question: Wie nennt man die sehr kleinen Sterne, die aber eine unglaublich große Dichte besitzen?
+  answer: Neutronensterne
+
+- category: Astronomie
+  question: Wie nennt man einen erkalteten Himmelskörper?
+  answer: Planet
+  author: proll
+
+- category: Astronomie
+  question: Wie sehen wir magnetische Wirbelstürme auf der Sonne?
+  answer: "als #Sonnenflecken#"
+
+- category: Astronomie
+  question: Wie weit ist die Erde ungefähr von der Sonne entfernt?
+  answer: 150 Milliarden km
+  regexp: (150|hundertundfuenfzig)
+
+- category: Astronomie
+  question: Wieviele Monde besitzt der Jupiter? (ausschreiben)
+  answer: sechszehn
+
+- category: Astronomie
+  question: Wieviele Ringe besitzt der Uranus? (ausschreiben)
+  answer: zehn
+  regexp: (10|zehn)
+
+- category: Astronomie
+  question: Wieviele Sterne lassen sich in einer klaren Nacht mit bloßem Auge erkennen?
+  answer: ca. 3000
+  regexp: (3000|dreitausend)
+
+- category: Astronomie
+  question: Wieviele Tage braucht der Mond für einen Umlauf um die Erde?
+  answer: 29,5
+
+- category: Astronomie
+  question: Wieviele Tage hat ein normales Jahr, wenn man es ganz genau nimmt?
+  answer: 365,25
+
+- category: Astronomie
+  question: Wieviele natürliche Satelliten wurden bisher (1998) in unserem Sonnensystem entdeckt? (ausschreiben)
+  answer: einundsechzig
+
+- category: Astronomie
+  question: Wodurch entstand angeblich das Weltall?
+  answer: Urknall
+
+- category: Biologie
+  question: An welches Körperorgan wird ein Bypass gelegt?
+  answer: Herz
+
+- category: Biologie
+  question: Anderer Begriff von Zahnfäule, welche meist durch zu zuckerreiche Nahrung hervorgerufen wird?
+  answer: Karies
+
+- category: Biologie
+  question: Anderes Wort für Biokatalysatoren, welche den Stoffwechsel stark beschleunigen!
+  answer: Enzyme
+
+- category: Biologie
+  question: Aus wievielen Einzelaugen besteht ein Facettenauge einer Biene?
+  answer: "5000"
+
+- category: Biologie
+  question: Aus wievielen Zellen bestehen Amöben? (ausschreiben)
+  answer: einer
+
+- category: Biologie
+  question: Bei welchen Tieren übernehmen die Männchen Austragung und Geburt der Jungen?
+  answer: Seepferdchen
+
+- category: Biologie
+  question: Berührt man mit einem Gegenstand die Handflächen eines Sägulings, reagiert der Säguling mit welchem Reflex?
+  answer: Handgreifreflex
+
+- category: Biologie
+  question: Den Erreger welcher Krankheit entdeckte der deutsche Landarzt Robert Koch?
+  answer: Tuberkulose
+
+- category: Biologie
+  question: Der Regenwurm gehört zu der Gattung der ... Tiere!
+  answer: wirbellosen
+
+- category: Biologie
+  question: Die Adern, die zum Herz hinführen heißen?
+  answer: Venen
+
+- category: Biologie
+  question: Die Fasern welcher Pflanze dienten in Notzeiten als Ersatz fuer Baumwolle?
+  answer: Brennessel
+  author: proll
+
+- category: Biologie
+  question: Durch Bienen kann der Mensch Honig gewinnen! Und was noch?
+  answer: Wachs
+
+- category: Biologie
+  question: Ein Hohlmuskel, welcher dafür sorgt, dass das Blut durch den Körper gepumpt wird?
+  answer: Herz
+
+- category: Biologie
+  question: Ein wichtiges Organ, welches zur Atmung benötigt wird?
+  answer: Lunge
+
+- category: Biologie
+  question: Eine in Europa häufig "anzutreffende" Getreideart?
+  answer: Weizen
+
+- category: Biologie
+  question: In welchen "Gebilden" leben Ameisen?
+  answer: Ameisenhaufen
+
+- category: Biologie
+  question: In welcher Epoche lebte der Brontosaurus?
+  answer: Kreidezeit
+
+- category: Biologie
+  question: Mit welchem Hochedlen Speisepilz ist der Fliegenpilz verwandt?
+  answer: Kaiserling
+
+- category: Biologie
+  question: Mit welcher Gemüsefrucht ist die Aubergine verwandt?
+  answer: Tomate
+
+- category: Biologie
+  question: Mittels welcher besonders hohen Töne orientieren sich Fledermäuse?
+  answer: Ultraschall
+
+- category: Biologie
+  question: Nach einer blutenden Wunde bildet sich der feste Blutkuchen, der ... genannt wird!
+  answer: Schorf
+
+- category: Biologie
+  question: Tierart, die sich nur im Wasser aufhält!
+  answer: Fisch
+
+- category: Biologie
+  question: Unter welchem Namen sind Amöben auch noch bekannt?
+  answer: Wechseltierchen
+
+- category: Biologie
+  question: Von welchem Tier stammt der Mensch (warscheinlich) ab?
+  answer: Affe
+
+- category: Biologie
+  question: Warum sind Faultiere oft gruen?
+  answer: Algen
+  author: proll
+
+- category: Biologie
+  question: Was "erfand" Alexander Fleming im Jahre 1928?
+  answer: Antibiotika
+
+- category: Biologie
+  question: Was bauen Spinnen, um sich ihre Nahrung zu fangen? (voller Name)
+  answer: Spinnennetz
+
+- category: Biologie
+  question: Was baute der Holländer vor "van Leeuwenhoek" vor etwa 300 Jahren?
+  answer: Mikroskop
+
+- category: Biologie
+  question: Was bedeutet das Wort Metabolismus?
+  answer: Stoffwechsel
+
+- category: Biologie
+  question: Was fehlt den Menschenaffen im Gehirn, um sprechen lernen zu koennen?
+  answer: Sprachzentrum
+  author: proll
+
+- category: Biologie
+  question: Was für eine Art Gewächs ist die Kamelie?
+  answer: Teegewächs
+
+- category: Biologie
+  question: Was geben die endokrinen Drüsen hauptsächlich an das Blut ab?
+  answer: Hormone
+
+- category: Biologie
+  question: Was halten einige Tierarten im Winter?
+  answer: Winterschlaf
+
+- category: Biologie
+  question: Was ist die härteste Substanz des menschlichen Körpers?
+  answer: Zahnschmelz
+
+- category: Biologie
+  question: Was testet man meist, wenn man jemandem mit einem Hämmerchen aufs Knie haut *g*?
+  answer: Reflexe
+
+- category: Biologie
+  question: Was tritt auf, wenn im Magen zuviel Säure vorhanden ist?
+  answer: Sodbrennen
+
+- category: Biologie
+  question: Welche Bakterien können eine Lebensmittelvergiftung auslösen?
+  answer: Salmonellen
+
+- category: Biologie
+  question: Welche Blume nennen die Ostfriesen Hühnerschwanz?
+  answer: "blaue #Schwertlilie#"
+
+- category: Biologie
+  question: Welche Drüse im Auge gibt die Tränenflüssigkeit ab?
+  answer: Tränendrüse
+
+- category: Biologie
+  question: Welche Eichenart prangt im Sommer in den schoensten Herbstfarben?
+  answer: Scharlacheiche
+  author: proll
+
+- category: Biologie
+  question: Welche Flüssigkeit transportiert Sauerstoff durch den Körper?
+  answer: Blut
+  author: proll
+  level: baby
+
+- category: Biologie
+  question: Welche Insekten bauen bis zu 6m hohe steinharte Säulen?
+  answer: Termiten
+
+- category: Biologie
+  question: Welche Krankheit entsteht durch Vitamin C Mangel?
+  answer: Skorbut
+  regexp: S[ck]orbut
+
+- category: Biologie
+  question: Welche Krankheit überträgt die Anopheles-Mücke?
+  answer: Malaria
+
+- category: Biologie
+  question: Welche Pflanzen können ohne Sonnenlicht überleben?
+  answer: Pilze
+
+- category: Biologie
+  question: Welche Pfrede sind in den ALpen sehr beliebt?
+  answer: Haflinger
+
+- category: Biologie
+  question: Welche Teile der Zellkerns tragen die Erbinformationen?
+  answer: Chromosomen
+  author: proll
+
+- category: Biologie
+  question: Welche Tiere werden in Japan als "lebende Seismographen" betrachtet?
+  answer: Fische
+  author: proll
+
+- category: Biologie
+  question: Welche Voegel werden von den Chinesen zum Fischfang abgerichtet?
+  answer: Kormorane
+  author: proll
+
+- category: Biologie
+  question: Welche Wespenart ist die größte unter allen?
+  answer: Hornisse
+
+- category: Biologie
+  question: Welche elektrische Spannung herrscht in einer Nervenzelle?
+  answer: siebzig Millivolt
+  regexp: (70|siebzig) (mV|Millivolt)
+  author: proll
+  level: hard
+
+- category: Biologie
+  question: Welche watteähnlichen grünen "Massen" schwimmen im Sommer häufig auf Seen?
+  answer: Grünalgen
+
+- category: Biologie
+  question: Welchen Stoff benötigt unser Körper für die Förderung von Wachstum, die Hautbildung und Aufbau des Sehpurpurs?
+  answer: Vitamin A
+
+- category: Biologie
+  question: Welcher "Urvater der Vererbungslehre" veröffentlichte 1865 seine Gesetzmäßigkeiten?
+  answer: Mendel
+
+- category: Biologie
+  question: Welcher Vogel kann vorwärts, seitwärts, auf- und abwärts fliegen?
+  answer: Kolibri
+
+- category: Biologie
+  question: Welcher englische Wissenschaftler entdeckte zuerst mit einem Mikroskop eine Zelle?
+  answer: Hooke
+
+- category: Biologie
+  question: Welcher süchtig-machende Wirkstoff steckt in der Zigarette?
+  answer: Nikotin
+
+- category: Biologie
+  question: Welches Enzym im Magensaft spaltet die Eiweiße in kürzere Aminosäureketten und leitet damit die Eiweißverdauung ein?
+  answer: Pepsin
+
+- category: Biologie
+  question: Welches Gerät wird zur Herzuntersuchung eingestzt? (voller Name)
+  answer: Elektrokardiogramm
+
+- category: Biologie
+  question: Welches Körperorgan wird bei Alkoholikern besonders in Mitleidenschaft gezogen?
+  answer: Leber
+
+- category: Biologie
+  question: Welches Lebewesen hat das feinste Gehör?
+  answer: Fledermaus
+
+- category: Biologie
+  question: Welches Organ im Menschen verbraucht am meisten Sauerstoff?
+  answer: Gehirn
+
+- category: Biologie
+  question: Welches Pferd kann bis zu 5 Minuten lang tauchen?
+  answer: Flußpferd
+
+- category: Biologie
+  question: Welches Sinnesorgan ist bei den Vögeln das wichtigste Frage?
+  answer: Die Augen
+  regexp: Augen
+
+- category: Biologie
+  question: Welches Tier benutzt seinen Kot als Vitaminpillen?
+  answer: Kaninchen
+
+- category: Biologie
+  question: Welches Tier entwickelt bei der Pilzsuche geradezu dedektivischen Spuersinn?
+  answer: Schwein
+  author: proll
+  level: easy
+
+- category: Biologie
+  question: Welches Tier traegt bis zu 400 kg Speck mit sich herum?
+  answer: Walross
+  author: proll
+
+- category: Biologie
+  question: Welches Tier verwendet seinen Blinddarm als Schwimmblase?
+  answer: Bisamratte
+
+- category: Biologie
+  question: Welches Tier war das größte Landtier aller Zeiten?
+  answer: Sauropode
+
+- category: Biologie
+  question: Welches Vitamin fehlt dem polierten bzw. geschaelten Reis?
+  answer: Vitamin B1
+  regexp: Vitamin B ?1
+  author: proll
+  level: hard
+
+- category: Biologie
+  question: Welches ist das größte Meeressäugetier in Deutschland?
+  answer: Seehund
+
+- category: Biologie
+  question: Welches ist das kleinste Landsäugetier im deutschsprachigen Raum?
+  answer: Zwergspitzmaus
+
+- category: Biologie
+  question: Welches ist das längste Tier überhaupt?
+  answer: Schnurwurm
+
+- category: Biologie
+  question: Welches ist das schnellste Meeressäugetier?
+  answer: Killerwal
+
+- category: Biologie
+  question: Welches ist die in Europa am häufigsten vorkommende Waldart?
+  answer: Laubmischwald
+
+- category: Biologie
+  question: Welches ist eine der meistbenutzten mechanischen Verhütungsmethoden und schützt vor Geschlechtskrankheiten?
+  answer: Kondom
+
+- category: Biologie
+  question: Welches sind die kleinsten in der Natur vorkommenden Lebewesen?
+  answer: Bakterien
+
+- category: Biologie
+  question: Welches weibliche Hormon bewirkt die Verweiblichung?
+  answer: Östrogen
+
+- category: Biologie
+  question: Wenn ein Merkmal in der Vererbung besonders vorherrschend ist, dann nennt man es ...!
+  answer: dominant
+
+- category: Biologie
+  question: Wenn ein heranwachsendes Kind im Mutterleib alle Organe ausgebildet hat und damit die Embryonalzeit abgeschlossen ist, nennt man das "Kind" wie?
+  answer: Fetus
+
+- category: Biologie
+  question: Wer führte die antiseptische Chirugie ein?
+  answer: "Baron #von Lister#"
+
+- category: Biologie
+  question: Wer gilt als Pionier der Bakterienforschung (1843 - 1910) ?
+  answer: Koch
+
+- category: Biologie
+  question: Wer ist der Fetttransporteuer im Blut?
+  answer: Cholesterin
+
+- category: Biologie
+  question: Wer ist der beste Freund des Menschen?
+  answer: Hund
+
+- category: Biologie
+  question: Wer ist die Polizei des Blutes?
+  answer: Die weißen Blutkörperchen
+  regexp: (Leukozyten|weißen? Blutkörperchen)
+
+- category: Biologie
+  question: Wie bezeichnet man die "Vorstufe" der Schmetterlinge?
+  answer: Raupen
+
+- category: Biologie
+  question: Wie bezeichnet man die Weiterverwertung von Abfall?
+  answer: Recycling
+
+- category: Biologie
+  question: Wie heißt das giftigste Amphibium mit vollem Namen?
+  answer: Goldener Pfeilgiftfrosch
+
+- category: Biologie
+  question: Wie heißt der flüssige Bestndteil des Blutes?
+  answer: Plasma
+
+- category: Biologie
+  question: Wie heißt die Zeit zwischen Ansteckung und Ausbruch einer Krankheit?
+  answer: Inkubationszeit
+
+- category: Biologie
+  question: Wie heißt die berüchtigte Seefahrerkrankheit, die früher aufgrund von Vitaminmangel häufig auftrat?
+  answer: Skorbut
+
+- category: Biologie
+  question: Wie hoch kann eine erwachsene Giraffe werden? (ausschreiben)
+  answer: sechs Meter
+  author: proll
+
+- category: Biologie
+  question: Wie lange dauert die Schwangerschaft einer Huendin?
+  answer: neun Wochen
+  author: proll
+
+- category: Biologie
+  question: Wie lange kann ein Alligator tauchen?
+  answer: Maximal eine Stunde
+  regexp: (eine Stunde|1 ?h)
+
+- category: Biologie
+  question: Wie lange lebt eine Eintagsfliege? (ausschreiben)
+  answer: eine Stunde
+
+- category: Biologie
+  question: Wie nennt man das Lebewesen, dass sich aus mehreren durch komplizierte Knoten verbundenen Ratten zusammensetzt?
+  answer: Rattenkönig
+
+- category: Biologie
+  question: Wie nennt man das Rudel von Hunden beim Jagdreiten?
+  answer: Meute
+
+- category: Biologie
+  question: Wie nennt man die Flüssigkeit, in der die festen Bestandteile des Blutes schwimmen?
+  answer: Blutplasma
+
+- category: Biologie
+  question: Wie nennt man die Krankheit, bei der man unter zwanghaftem Hungerwahn leidet?
+  answer: Magersucht
+
+- category: Biologie
+  question: Wie nennt man die Zeit zwischen der Ansteckung und dem Ausbruch einer Krankheit?
+  answer: Inkubationszeit
+
+- category: Biologie
+  question: Wie nennt man die männlichen Bienen?
+  answer: Drohnen
+
+- category: Biologie
+  question: Wie nennt man die operative Übertragung von Organen?
+  answer: Transplantation
+
+- category: Biologie
+  question: Wie nennt man die unfruchtbaren weiblichen Bienen?
+  answer: Arbeitsbienen
+
+- category: Biologie
+  question: Wie nennt man eine Entzündung des Zahnfleisches oder Erkrankungen des Halteapparates der Zähne?
+  answer: Parodontitis
+
+- category: Biologie
+  question: Wie nennt man in der Biologie eine Lebensgemeinschaft zum gegenseitigen Nutzen?
+  answer: Symbiose
+
+- category: Biologie
+  question: Wie oft wirft ein Hirsch sein Geweih ab?
+  answer: Einmal im Jahr
+  regexp: (jährlich|einmal (pro|im) Jahr)
+
+- category: Biologie
+  question: Wie vermehrt sich eine Zelle?
+  answer: durch Teilung
+  regexp: (Teilung|Zellteilung)
+
+- category: Biologie
+  question: Wie werden Proteine vereinfacht genannt?
+  answer: Eiweiße
+
+- category: Biologie
+  question: Wie wird der Urvogel noch bezeichnet?
+  answer: Archaeopteryx
+
+- category: Biologie
+  question: Wie wird die heute lebende Rasse Mensch in der Biologie genau bezeichnet?
+  answer: Homo sapiens sapiens
+
+- category: Biologie
+  question: Wieviel Kilogramm an Futter braucht ein indischer Elefant am Tag etwa?
+  answer: "100"
+
+- category: Biologie
+  question: Wieviel Luft tauscht die Lunge taeglich aus? (ausschreiben)
+  answer: dreizehntausend Liter
+  author: proll
+
+- category: Biologie
+  question: Wieviel PS entwickelt ein ausgewachsener Blauwal bei Höchstgeschwindigkeit?
+  answer: "#520# PS"
+
+- category: Biologie
+  question: Wieviel laut (in Dezibel) ist ungefähr eine verkehrsreiche Straße (ausschreiben)?
+  answer: achtzig
+
+- category: Biologie
+  question: Wieviele Hoecker hat ein Dromedar?
+  answer: einen
+  author: proll
+  level: baby
+
+- category: Biologie
+  question: Wieviele Rippenpaare hat der Mensch
+  answer: zwölf
+  regexp: (zwölf|12)
+
+- category: Biologie
+  question: Wieviele Zellen besitzt der menschliche Körper?
+  answer: ca. 60 Billionen
+  regexp: (60 Billionen|60000000000000)
+
+- category: Biologie
+  question: Wo hat der Mensch eine Schnecke?
+  answer: Ohr
+  author: proll
+
+- category: Biologie
+  question: Wo werden die roten Blutkörperchen gebildet?
+  answer: Knochenmark
+
+- category: Biologie
+  question: Wodurch nehmen Pflanzen Stoffe aus und werden im Boden verankert?
+  answer: Wurzel
+
+- category: Biologie
+  question: Wodurch pflanzen sich Farne fort?
+  answer: "durch #Sporen#"
+
+- category: Biologie
+  question: Wodurch unterscheidet sich ein junges von einem ausgewachsenem Rotkehlchem?
+  answer: Sie haben noch keine rote Brust
+  regexp: keine rote Brust
+
+- category: Biologie
+  question: Wodurch vermehren sich Zellen?
+  answer: Teilung
+
+- category: Biologie
+  question: Wofür steht die Abkürzung AIDS?
+  answer: Acquired Immunodeficiency Syndrome
+
+- category: Biologie
+  question: Wofür steht die Abkürzung HIV?
+  answer: Humanes Immunschwäche-Virus
+
+- category: Biologie
+  question: Wohin gelangt der Nahrungsbrei nach dem Schluckvorgang als erstes?
+  answer: Speiseröhre
+
+- category: Biologie
+  question: Womit führt der Mensch die mechanische Zerkleinerung von Nahrung durch?
+  answer: Zähnen
+
+- category: Biologie
+  question: Zu welchem Gelenktyp gehört das Schultergelenk (erlaubt Bewegungen in allen Ebenen)?
+  answer: Kugelgelenk
+
+- category: Boxen
+  question: Wladimir und Vitali ...
+  answer: Klitschko
+
+- category: Chemie
+  question: Aus welchem Stoff besteht der Draht einer Glühlampe?
+  answer: Wolfram
+
+- category: Chemie
+  question: Chemie ist das was ... ... ..., Physik ist das was nie gelingt!
+  answer: knallt und stinkt
+  regexp: (knallt und stinkt|stinkt und knallt)
+
+- category: Chemie
+  question: Eine Redoxreaktion ist eine gleichzeitig ablaufende Oxidation und ...!
+  answer: Reduktion
+
+- category: Chemie
+  question: Eine Redoxreaktion ist eine gleichzeitig ablaufende Reduktion und ...!
+  answer: Oxidation
+
+- category: Chemie
+  question: Eine chemische Reaktion, bei der einem Oxid Sauerstoff entzogen wird, bezeichnet man als ...!
+  answer: Reduktion
+
+- category: Chemie
+  question: Formel C3H6O3 ! Was ist gemeint?
+  answer: Milchsäure
+
+- category: Chemie
+  question: In welcher "Tabelle" fasst man die chemischen Elemente zusammen?
+  answer: Periodensystem
+
+- category: Chemie
+  question: Unter welchem Begriff fasst man Fluor, Chlor, Brom und Iod zusammen?
+  answer: Halogene
+
+- category: Chemie
+  question: Unter welchem Begriff fasst man Kohle, Erdöl und Erdgas zusammen?
+  answer: fossile Energieträger
+
+- category: Chemie
+  question: Unter welchem Begriff fasst man fest, flüssig und gasförmig zusammen?
+  answer: Aggregatzustand
+
+- category: Chemie
+  question: Unter welchem Namen ist Methanol auch noch bekannt?
+  answer: Holzgeist
+
+- category: Chemie
+  question: Wann wurde die erste Atom-Bombe in den USA zu Testzwecken gezündet? (xx.xx.xxxx)
+  answer: "16.07.1945"
+
+- category: Chemie
+  question: Was erhält man, wenn man den Kohlenstoffgehalt in Roheisen um 1,5% senkt und alle Verunreinigungen entfernt?
+  answer: Stahl
+
+- category: Chemie
+  question: Was erhält man, wenn man z.B. Wasser und Zucker mischt?
+  answer: Lösung
+
+- category: Chemie
+  question: Was erhält man, wenn man zwei geschmolzene Metalle mischt und abkühlen lässt?
+  answer: Legierung
+
+- category: Chemie
+  question: Was erhält man, wenn man zwei schlecht miteinander mischbare Stoffe gut schüttelt bis sich eine milchige Mischung ergibt?
+  answer: Emulsion
+
+- category: Chemie
+  question: Was konnte man auf der Weltausstellung 1855 in Paris als "Silber aus Ton" bestaunen?
+  answer: Aluminium
+
+- category: Chemie
+  question: Was macht man aus den Natriumsalzen bzw. Kaliumsalzen von Fettsäuren?
+  answer: Seife
+
+- category: Chemie
+  question: Was wird aus Wasser, wenn es bei 100° C siedet?
+  answer: Wasserdampf
+
+- category: Chemie
+  question: Welche Ladung besitzen Elektronen?
+  answer: negative
+
+- category: Chemie
+  question: Welche Legierung enthält Zink und Kupfer?
+  answer: Messing
+
+- category: Chemie
+  question: Welches Element steht in der 2. Periode der 5. Hauptgruppe im Periodensystem der Elemente?
+  answer: Stickstoff
+
+- category: Chemie
+  question: Welches Element steht in der 4. Periode der 2. Hauptgruppe im Periodensystem der Elemente?
+  answer: Calcium
+
+- category: Chemie
+  question: Welches ist das giftigste chemische Element?
+  answer: Radium
+
+- category: Chemie
+  question: Wer entdeckte zuerst die Radioaktivität im Jahr 1897? (voller Name)
+  answer: Marie Curie
+
+- category: Chemie
+  question: Wer veröffentlichte im Jahr 1805 die Atomtheorie?
+  answer: Dalton
+
+- category: Chemie
+  question: Wie bezeichnet man alle Stoffe mit einer Ionenverbindung?
+  answer: Salze
+
+- category: Chemie
+  question: Wie bezeichnet man die Oxidation von Eisen noch?
+  answer: rosten
+
+- category: Chemie
+  question: Wie bezeichnet man gesättigte Kohlenwasserstoffe?
+  answer: Paraffine
+
+- category: Chemie
+  question: Wie lange bleibt ein Hochofen ununterbrochen in Betrieb? (ausschreiben)
+  answer: zehn Jahre
+
+- category: Chemie
+  question: Wie lautet die freie Übersetzung des wissenschaftlichen Namens Oxygenium?
+  answer: Sauerstoff
+
+- category: Chemie
+  question: Wie nennt man Grundstoffe der Materie, die sich nicht weiter in andere Stoffe zerlegen lassen?
+  answer: Elemente
+
+- category: Chemie
+  question: Wie nennt man Mineralien mit besonders hohen Metallgehalten?
+  answer: Erze
+
+- category: Chemie
+  question: Wie nennt man Teilchen, die aus mehreren Atomen aufgebaut sind?
+  answer: Moleküle
+
+- category: Chemie
+  question: Wie nennt man die Elemente der 8. Hauptgruppe?
+  answer: Edelgase
+
+- category: Chemie
+  question: Wie nennt man die in der Natur vorkommenden Metallverbindungen?
+  answer: Mineralien
+
+- category: Chemie
+  question: Wie nennt man frei bewegliche und elektrisch geladene Teilchen?
+  answer: Ionen
+
+- category: Chemie
+  question: Woraus sind Moleküle aufgebaut?
+  answer: aus Atomen
+  regexp: Atomen?
+
+- category: Chemie
+  question: Zu was wird Eis, wenn es schmilzt?
+  answer: Wasser
+
+- category: Chemie
+  question: Zu welcher Elementgruppe gehören u.a. Bor, Silicium, Arsen, Astat?
+  answer: Halbmetalle
+
+- category: Chemie
+  question: Zu welcher Elementgruppe gehören u.a. Wasserstoff, Chlor, Stickstoff, Kohlenstoff?
+  answer: Nichtmetalle
+
+- category: Chemie
+  question: Zu welcher Stoffgruppe gehören Eisen, Silber, Zink, etc. ?
+  answer: Metalle
+
+- category: Chemie
+  question: Zu welcher Stoffgruppe gehören Kochsalz, Alaun, etc. ?
+  answer: salzähnliche Stoffe
+
+- category: Chemie
+  question: zu welcher Stoffgruppe gehören Wasser, Kohlenstoffdioxid, Schwefel, etc. ?
+  answer: flüchtige Stoffe
+
+- category: Comic & Cartoon
+  question: "Wie heißen die beiden Figuren, die den Spruch: Die spinnen, die Römer salonfähig machten?"
+  answer: Asterix und Obelix
+  regexp: (Asterix und Obelix|Obelix und Asterix)
+
+- category: Computer
+  question: Wie heißt das Maß, für die kleinste Informationseinheit in der Datenverarbeitung?
+  answer: Bit
+  regexp: (Bit|Binary Digit)
+
+- category: Essen & Trinken
+  question: Aus welchem Land kommt die Gulaschsuppe?
+  answer: Ungarn
+  author: proll
+  level: baby
+
+- category: Essen & Trinken
+  question: Was ist Gazpacho?
+  answer: kalte Gemuesesuppe
+  author: proll
+
+- category: Essen & Trinken
+  question: Welche Rebe wird "Pinot noir" genannt?
+  answer: "#Blauburgunder#rebe"
+  author: proll
+  level: hard
+
+- category: Film & Fernsehen
+  question: In welchem Jahr starb Marilyn Monroe?
+  answer: "1962"
+  author: proll
+
+- category: Film & Fernsehen
+  question: Mit welchem Film begann Heidi Bruehls Karriere?
+  answer: Die Maedels vom Immenhof
+  author: proll
+  level: hard
+
+- category: Film & Fernsehen
+  question: Unter welchem Namen ist der Schauspieler Walter Matauschanskayasky besser bekannt?
+  answer: Walter Mattau
+
+- category: Film & Fernsehen
+  question: Unter welchem Namen ist die Hollywood-Diva Lucy Johnson besser bekannt?
+  answer: Ava Gardner
+  author: proll
+  level: hard
+
+- category: Film & Fernsehen
+  question: Was liess sich Sophia Loren chirurgisch verschoenern?
+  answer: Augen
+  author: proll
+
+- category: Film & Fernsehen
+  question: Welche griechische Schauspielerin wurde zum Kultusminister ernannt?
+  answer: Melina Mercouri
+  author: proll
+  level: hard
+
+- category: Film & Fernsehen
+  question: Welcher Oskar-praemierte Film zeigte die Tragoedie des Pol Pot Regimes?
+  answer: Killing Fields
+  author: proll
+  level: hard
+
+- category: Film & Fernsehen
+  question: Welcher berühmte Regisseur wurde in einem Vorort von Rom ermordet aufgefunden?
+  answer: "Pierre Paolo #Pasolini#"
+
+- category: Film & Fernsehen
+  question: Welcher englische Regisseur hat in seinen Filmen immer eine Statistenrolle gespielt?
+  answer: "Alfred #Hitchcock#"
+  author: proll
+  level: easy
+
+- category: Film & Fernsehen
+  question: Welcher italienische Tenor lieh Caruso in dem Film "Der grosse Caruso" (1951) seine Stimme?
+  answer: "Mario #Lanza#"
+  author: proll
+  level: hard
+
+- category: Film & Fernsehen
+  question: Wer fuehrte durch die Sendung "New York, New York"?
+  answer: "Werner #Baecker#"
+  author: proll
+
+- category: Film & Fernsehen
+  question: Wer hat insgesamt auf verschiedenen Gebieten die meisten Oscars gewonnen?
+  answer: "Walt #Disney#"
+
+- category: Film & Fernsehen
+  question: Wer spielte Carmen in Francesco Rosis gleichnamigen Film?
+  answer: Julia Migenes
+  regexp: Migenes
+
+- category: Film & Fernsehen
+  question: Wer spielte die "Frau meiner Traeume" im Film
+  answer: Marika Roeck
+  author: proll
+  level: hard
+
+- category: Film & Fernsehen
+  question: Wer spielte die Prinzessin Dala im Film der Rosarote Panther?
+  answer: "Claudia #Cardinale#"
+
+- category: Film & Fernsehen
+  question: Wer spielte die männliche Hauptrolle neben Barbara Streisand in dem Film Funny Girl?
+  answer: Omar Shariff
+
+- category: Film & Fernsehen
+  question: Wer spielte die weibliche Hauptrolle neben Horst Buchholz in "Die Halbstarken"?
+  answer: "Karin #Baal#"
+  author: proll
+
+- category: Film & Fernsehen
+  question: Wer spielte nur einmal die Rolle des James Bond 007?
+  answer: George Lazenby
+
+- category: Film & Fernsehen
+  question: Wer war der Hauptdarsteller in High Noon?
+  answer: Gary Cooper
+
+- category: Film & Fernsehen
+  question: Wie heißt die staatliche italienische Fernsehgesellschaft?
+  answer: RAI
+
+- category: Film & Fernsehen
+  question: Wie hieß der erste James Bond Film von 1962?
+  answer: James Bond jagt Dr. No
+
+- category: Film & Fernsehen
+  question: 'Wie hieß der weibliche Star in Fellinis Film "La Dolce Vita"? '
+  answer: Anita Ekberg
+  author: proll
+
+- category: Film & Fernsehen
+  question: Wie war Sophia Lorens buergerlicher Name?
+  answer: "Sophia #Scicolone#"
+  author: proll
+
+- category: Film & Fernsehen
+  question: Wo befinden sich die groessten Filmstudios der Bundesrepublik Deutschland?
+  answer: Muenchen
+  author: proll
+  level: easy
+
+- category: Formel
+  question: H2O ! Was ist gemeint?
+  answer: Wasser
+
+- category: Formel
+  question: H2SO4 ! Was ist gemeint?
+  answer: Schwefelsäure
+
+- category: Formel
+  question: NH3 ! Was ist gemeint?
+  answer: Ammoniak
+
+- category: Fremdwoerter
+  question: Wie nennt man jemanden, der Pilze erforscht?
+  answer: Mykologe
+  author: proll
+  level: hard
+
+- category: Geographie
+  question: Aus welchem Gestein besteht die Erdoberfläche hauptsächlich?
+  answer: Granit
+
+- category: Geographie
+  question: Die beiden Gebirge Kaukasus und ... gelten als natürliche Grenze zwischen Europa und Asien !
+  answer: Ural
+
+- category: Geographie
+  question: Die beiden Gebirge Ural und ... gelten als natürliche Grenze zwischen Europa und Asien !
+  answer: Kaukasus
+
+- category: Geographie
+  question: In welchem Land befindet sich das größte zusammenhängende Gewässernetz Europas?
+  answer: Finnland
+
+- category: Geographie
+  question: In welchem Land steht das Rila-Kloster?
+  answer: Bulgarien
+
+- category: Geographie
+  question: In welchem Land steht der Goldene Tempel?
+  answer: Indien
+
+- category: Geographie
+  question: In welchem Land steht der Himmelstempel?
+  answer: China
+
+- category: Geographie
+  question: In welchen Fluss muendet die Tauber?
+  answer: Main
+  author: proll
+
+- category: Geographie
+  question: In welcher Stadt befindet sich der Neptunbrunnen auf der Piazza della Signora?
+  answer: Florenz
+
+- category: Geographie
+  question: In welcher Stadt steht Big Ben?
+  answer: London
+
+- category: Geographie
+  question: In welcher Stadt steht der Eiffelturm?
+  answer: Paris
+
+- category: Geographie
+  question: In welcher italienischen Landschaft liegt Chianti, die Heimat des bekannten Weines?
+  answer: Toscana
+
+- category: Geographie
+  question: In welches Meer ragt die Halbinsel Krim?
+  answer: Schwarze Meer
+
+- category: Geographie
+  question: Land in Europa mit ungefähr 800 Einwohnern?
+  answer: Vatikanstaat
+
+- category: Geographie
+  question: Mit welcher Insel ist Tansania als "Foederative Republik" vereinigt?
+  answer: Sansibar
+  author: proll
+  level: hard
+
+- category: Geographie
+  question: Nenne ein deutsches Bundesland!
+  answer: Brandenburg
+
+- category: Geographie
+  question: Nenne ein deutsches Bundesland!
+  answer: Hamburg
+
+- category: Geographie
+  question: Nenne ein deutsches Bundesland!
+  answer: Hessen
+
+- category: Geographie
+  question: Nenne ein deutsches Bundesland!
+  answer: Saarland
+
+- category: Geographie
+  question: Nenne ein deutsches Bundesland!
+  answer: Thüringen
+
+- category: Geographie
+  question: Nenne einen Ozean!
+  answer: Atlantik
+
+- category: Geographie
+  question: Nenne einen Ozean!
+  answer: Indischer Ozean
+
+- category: Geographie
+  question: Nenne einen Ozean!
+  answer: Pazifik
+
+- category: Geographie
+  question: Nenne einen amerikanischen Bundesstaat!
+  answer: Georgia
+
+- category: Geographie
+  question: Nenne einen amerikanischen Bundesstaat!
+  answer: Montana
+
+- category: Geographie
+  question: Nenne einen amerikanischen Bundesstaat!
+  answer: Nebraska
+
+- category: Geographie
+  question: Nenne einen amerikanischen Bundesstaat!
+  answer: Nevada
+
+- category: Geographie
+  question: Nenne einen amerikanischen Bundesstaat!
+  answer: New York
+
+- category: Geographie
+  question: Nenne einen amerikanischen Bundesstaat!
+  answer: Ohio
+
+- category: Geographie
+  question: Rate eine Hauptstadt Europas!
+  answer: Athen
+
+- category: Geographie
+  question: Rate eine Hauptstadt Europas!
+  answer: Bukarest
+
+- category: Geographie
+  question: Rate eine Hauptstadt Europas!
+  answer: Lissabon
+
+- category: Geographie
+  question: Rate eine Hauptstadt Europas!
+  answer: Madrid
+
+- category: Geographie
+  question: Rate eine Hauptstadt Europas!
+  answer: Wien
+
+- category: Geographie
+  question: Was ist die geographische Vorraussetzung zur Bildung von Föhn?
+  answer: Gebirge
+
+- category: Geographie
+  question: Welche Insel ist die größte der Erde?
+  answer: Grönland
+
+- category: Geographie
+  question: Welche Klimaanomalie sorgt für viele Naturkatastrophen und hat seinen Ursprung in Chila?
+  answer: El Nino
+
+- category: Geographie
+  question: Welche Stadt liegt auf zwei Kontinenten?
+  answer: Istanbul
+
+- category: Geographie
+  question: Welche Stadt nennt man auch "Ewige Stadt"?
+  answer: Rom
+  author: proll
+  level: easy
+
+- category: Geographie
+  question: Welche schützende Schicht befindet sich in ca. 30 km Höhe?
+  answer: Ozonschicht
+
+- category: Geographie
+  question: Welcher 4478 m hohe Berg steht im Schweizer Wallis?
+  answer: Matterhorn
+
+- category: Geographie
+  question: Welcher Fluss ist der wasserreichste Strom der Erde?
+  answer: Amazonas
+
+- category: Geographie
+  question: Welcher Kanal verkürzt den Seeweg zwischen der Ägäis und dem Ionischen Meer?
+  answer: Kanal von Korinth
+  author: proll
+
+- category: Geographie
+  question: Welcher Kontinent ist gleichzeitig ein Land?
+  answer: Australien
+
+- category: Geographie
+  question: Welcher Nebenfluß des Mississippi ist 404 Kilometer lang?
+  answer: Missouri
+
+- category: Geographie
+  question: Welcher See wird von den beiden Flüssen Amurdaja und Surdaja gespeist?
+  answer: Aralsee
+
+- category: Geographie
+  question: Welcher Strom ist der wasserreichste in Europa?
+  answer: Wolga
+
+- category: Geographie
+  question: Welcher Volksstamm ist in Marokko überwiegend ansässig?
+  answer: Berber
+
+- category: Geographie
+  question: Welches Gebirge bildet einen "Riegel" zwischen der iberischen Halbinsel und Frankreich?
+  answer: Pyrenäen
+
+- category: Geographie
+  question: Welches Land grenzt an Pakistan, China, Nepal, Bhutan, Bangladesch und Birma?
+  answer: Indien
+  author: proll
+
+- category: Geographie
+  question: Welches Weltmeer bezeichnet man auch als "Stillen Ozean"?
+  answer: Pazifik
+  regexp: pazifischer Ozean
+  author: proll
+  level: easy
+
+- category: Geographie
+  question: Welches ist das höchste Gebirge im Herzen der Sahara?
+  answer: Tibesti
+
+- category: Geographie
+  question: Welches ist das zweitmeistbevölkerste Land der Welt?
+  answer: Indien
+
+- category: Geographie
+  question: Welches ist der höchste tätige Vulkan?
+  answer: Der Antofalla in Argentinien
+  regexp: Antofalla
+
+- category: Geographie
+  question: Welches ist die größte japanische Insel?
+  answer: Honschu
+
+- category: Geographie
+  question: Wie bezeichnet man Dänemark, Norwegen, Schweden und Finnland als kulturellen Raum zusammen?
+  answer: Skandinavien
+
+- category: Geographie
+  question: Wie bezeichnet man die Gesamtheit der natürlichen Rohstoffe, Hilf- und Produktionsmittel?
+  answer: Ressourcen
+
+- category: Geographie
+  question: Wie heissen die Einwohner von Guatemala?
+  answer: Guatemalteken
+  author: proll
+  level: hard
+
+- category: Geographie
+  question: Wie heisst die Hauptstadt der Schweiz?
+  answer: Bern
+  author: proll
+  level: baby
+
+- category: Geographie
+  question: Wie heißt das Wahrzeichen von Paris?
+  answer: Eiffelturm
+
+- category: Geographie
+  question: Wie heißt der Ort in den USA, wo man die bizarr geformten Felsen aus den Western-Filmen finden kann?
+  answer: Monument Valley
+
+- category: Geographie
+  question: Wie heißt der asiatische Teil der Türkei?
+  answer: Anatolien
+
+- category: Geographie
+  question: Wie heißt der höchste Berg im bayerischen Wald?
+  answer: Großer Arber
+
+- category: Geographie
+  question: Wie heißt der längste schiffbare Fluss Neuseelands?
+  answer: Wanganui
+
+- category: Geographie
+  question: Wie heißt die Hauptstadt Australiens?
+  answer: Canberra
+
+- category: Geographie
+  question: Wie heißt die Hauptstadt der Dominikanischen Republik?
+  answer: Santo Domingo
+
+- category: Geographie
+  question: Wie heißt die Hauptstadt von Bahrain?
+  answer: Manama
+
+- category: Geographie
+  question: Wie heißt die Hauptstadt von Georgien?
+  answer: Tiflis
+
+- category: Geographie
+  question: Wie heißt die Hauptstadt von Iran?
+  answer: Teheran
+
+- category: Geographie
+  question: Wie heißt die Hauptstadt von Kenia?
+  answer: Nairobi
+
+- category: Geographie
+  question: Wie heißt die Hauptstadt von Kolumbien?
+  answer: Bogota
+
+- category: Geographie
+  question: Wie heißt die Hauptstadt von Malta?
+  answer: Valletta
+
+- category: Geographie
+  question: Wie heißt die Hauptstadt von Neuseeland?
+  answer: Wellington
+
+- category: Geographie
+  question: Wie heißt die Hauptstadt von Schweden?
+  answer: Stockholm
+
+- category: Geographie
+  question: Wie heißt die Hauptstadt von Sierra Leone?
+  answer: Freetown
+
+- category: Geographie
+  question: Wie heißt die Hauptstadt von Singapur?
+  answer: Singapur
+
+- category: Geographie
+  question: Wie heißt die Hauptstadt von Slowenien? (auf deutsch)
+  answer: Laibach
+
+- category: Geographie
+  question: Wie heißt die wohl bekannteste Brücke Londons?
+  answer: Tower Bridge
+
+- category: Geographie
+  question: Wie lang ist die Golden Gate Bridge in San Francisco? (in Meter)
+  answer: "2700"
+
+- category: Geographie
+  question: Wie lang war die Grenze zwischen der DDR und der BRD?
+  answer: 1381 km
+  author: proll
+
+- category: Geographie
+  question: Wie lautet der Fachbegriff für die Ausbreitung der Wüsten?
+  answer: Desertifikation
+
+- category: Geographie
+  question: Wie nennt man das Gebiet der zahllosen Wasserfälle in Nordengland?
+  answer: Lake District
+
+- category: Geographie
+  question: Wie nennt man das schnelle Wachsen der Städte in den Entwicklungsländern?
+  answer: Metropolisierung
+
+- category: Geographie
+  question: Wie nennt man die Dunstglocken in Großstädten, die durch Verunreinigung entstanden sind?
+  answer: Smog
+
+- category: Geographie
+  question: Wie nennt man die Lehre der "Plattenwanderung"?
+  answer: Tektonik
+
+- category: Geographie
+  question: Wie nennt man die Steinsäulen entlang der Küste Victorias in der tasmanischen See?
+  answer: Zwölf Apostel
+
+- category: Geographie
+  question: Wie nennt man die in Gebirgen vorkommende Subalpine Zone mit niedrigwüchsiger Latschen- und Zirbelkiefer?
+  answer: Krummholzzone
+
+- category: Geographie
+  question: Wie nennt man die vielen Verzweigungen eines Flusses bevor er ins Meer fließt?
+  answer: Delta
+
+- category: Geographie
+  question: Wie viele Zeitzonen hat Kanada?
+  answer: sieben
+  regexp: (7|sieben)
+
+- category: Geographie
+  question: Wie werden die Heiligenstätten genannt, in denen Gaben für Buddha aufbewahrt werden?
+  answer: Stupa
+
+- category: Geographie
+  question: Wie werden die außergewöhnlichen Granitfelsen im Norden Australiens genannt?
+  answer: Murmeln des Teufels
+
+- category: Geographie
+  question: Wie wird das Land Tibet aufgrund seiner Lage noch genannt?
+  answer: Dach der Welt
+
+- category: Geographie
+  question: Wie wird der Urkontinent genannt?
+  answer: Eurasien
+
+- category: Geographie
+  question: Wieviel Prozent der Flaeche der BRD bestehen heute noch aus Laubwald? (ausschreiben)
+  answer: achtundzwanzig
+  author: proll
+
+- category: Geographie
+  question: Wieviele Inseln zählen zu den Fidschis?
+  answer: "840"
+
+- question: Auf was wirkt das Gift Strychnin?
+  answer: "Auf das zentrale #Nervensystem#"
+
+- question: Auf welcher Halbinsel Englands wird Uran gewonnen?
+  answer: Cornwall
+
+- question: Auf wieviel Hügeln wurde die Stadt Rom erbaut?
+  answer: auf sieben
+  regexp: (7|sieben)
+
+- question: Aus was ist Erdoel entstanden?
+  answer: Plankton
+  author: proll
+
+- question: Aus welchem Holz stellten bereits die Menschen der Jungsteinzeit ihre Geräte her?
+  answer: "#Ahorn#holz"
+  author: proll
+
+- question: Bei welchem französischen Modehaus ging Prinzessin Stephanie von Monaco in die Lehre?
+  answer: "Christian #Dior#"
+
+- question: Hat der Bundeskanzler einen eigenen Koch?
+  answer: nein
+  author: proll
+
+- question: In welchem Alter darf man in Frankreich heiraten?
+  answer: "#15# Jahren"
+
+- question: In welchem Bundesland steht das Denkmal von Bergen-Belsen?
+  answer: Niedersachsen
+
+- question: In welchem Jahr stellte die katholische Kirche ihre erste Liste zensierter Autoren und Bücher zusammen?
+  answer: "1559"
+
+- question: In welchem Land wurde Charlie Chaplin geboren?
+  answer: England
+  author: proll
+
+- question: In welchem Spionageroman liefert der Autor auch Kochrezepte?
+  answer: '"#Es muss nicht immer Kaviar sein#" von Johannes Mario Simmel'
+  author: proll
+  level: hard
+
+- question: In welchem internationalen Museum werden alle wichtigen Stuecke des guten Designs gesammelt?
+  answer: Museum of Modern Art
+  author: proll
+
+- question: In welcher Himmelsrichtung gab es für Remarque nichts neues?
+  answer: Im Westen
+  regexp: Westen
+
+- question: In welcher Oper erlangte Dumas Kameliendame Welterfolg?
+  answer: "La #Traviata#"
+
+- question: In welcher Stadr begeisterte ein Flötenspieler tausende von Nagetieren?
+  answer: Hameln
+
+- question: In welcher Stadt gehört die Schnauze zum guten Ton?
+  answer: Berlin
+
+- question: In welcher Stadt liegt das Parkstadion?
+  answer: Gelsenkirchen
+
+- question: Ist eine Zahl stets durch vier teilbar, wenn die Endziffer 4 ist?
+  answer: nein
+
+- question: Mit welchem Begriff bezeichnet man die Theologie und Wissenschaft des Mittelalters?
+  answer: Scholastik
+  author: proll
+  level: hard
+
+- question: Mit welcher Sportart verbindet man den Aga Khan?
+  answer: Pferderennen
+  author: proll
+
+- question: Mit wem war Liz Taylor zweimal verheiratet?
+  answer: "Richard #Burton#"
+
+- question: Mit wem war Sir Laurience Olivier verheiratet?
+  answer: Vivien Leigh
+
+- question: Mit wem war Theo Lingens Ehefrau in erster Ehe verheiratet?
+  answer: Bert Brecht
+  regexp: Brecht
+
+- question: Nach welchem französischen Staatspräsidenten wurde das Pariser Kulturzentrum benannt?
+  answer: Georges Pompidou
+  regexp: Pompidou
+
+- question: Nach wem wurde die sixtinische Kapelle benannt?
+  answer: Papst Sixtus IV.
+
+- question: Um welchen König trauerten die Engländer 1952?
+  answer: Georg VI.
+
+- question: Um welches Problem geht es in Wir Kinder vom Bahnhof Zoo?
+  answer: Drogen
+  regexp: (Drogen|Drogenproblem)
+
+- question: Unter welchem König trennte sich die Anglikanische Kirche von Rom?
+  answer: Heinrich VIII
+  regexp: (Heinrich der 8.|Heinrich VIII|Heinrich 8.)
+
+- question: Unter welchem Namen wurde der Schauspieler Iwan Juliet bekannt?
+  answer: "Hans #Moser#"
+
+- question: Unter welchem Namen wurde ein gewisser "Giacomo de Seingalt" weltberuehmt?
+  answer: Casanova
+  author: proll
+  level: hard
+
+- question: Unter welchem Titel wurde das Buch "Ueber den Umgang mit Menschen" (1788) populaer?
+  answer: "Der #Knigge#"
+  author: proll
+
+- question: Wann baute Henry Ford sein erstes funktionierendes Auto?
+  answer: "1896"
+  author: proll
+
+- question: Was bedeutet das Wort "Biennale"?
+  answer: alle zwei Jahre
+  author: proll
+
+- question: Was befindet sich in der Pennsylvania Avenue 1600?
+  answer: Weiße Haus
+  regexp: Weißes? Haus
+
+- question: Was erfand Heran von Alexandrien zum Zeitvertreib?
+  answer: Windorgel
+
+- question: Was heißt Radium übersetzt?
+  answer: Das Strahlende
+  regexp: Strahlende?
+
+- question: Was ist Bebop?
+  answer: Jazzstil
+  regexp: Jazz-Stil
+  author: proll
+
+- question: Was ist Demoskopie?
+  answer: Meinungsforschung
+
+- question: Was ist Physiatrie?
+  answer: Naturheilkunde
+
+- question: Was ist das wertvollste Exportgut Israels?
+  answer: "geschliffene #Diamanten#"
+
+- question: "Was ist das: Weiss wie Kreide, leicht wie Flaum, weich wie Seide, feucht wie Schaum?"
+  answer: Schnee
+  author: proll
+
+- question: Was ist der lange Eugen?
+  answer: Abgeordneten-Hochhaus
+  regexp: Abgeordneten-?hochhaus
+
+- question: Was ist die deutsche Lieblingsblume?
+  answer: Rose
+
+- question: Was ist ein Buschtaxi?
+  answer: Flugzeug
+
+- question: Was ist ein Genocid?
+  answer: Völkermord
+  regexp: (Völker|Gruppen)mord
+
+- question: Was ist ein Karibu?
+  answer: Rentier
+
+- question: Was ist ein Krokodilwaechter?
+  answer: Vogel
+  author: proll
+
+- question: Was ist ein Lumbago?
+  answer: Hexenschuß
+
+- question: Was macht Ron Reagan, Sohn eines amerikanischen Ex-Präsidenten beruflich?
+  answer: tanzen
+  regexp: (Tänzer|tanzen)
+
+- question: Was machte Gina Lollobrigida, seitdem sie nicht mehr in Filmen auftrat?
+  answer: fotografieren
+  regexp: (Fotos|fotografieren)
+
+- question: Was sind Heidschnucken
+  answer: Schafsrasse
+
+- question: Was versteht man unter einer Glypothek?
+  answer: Skulpturensammlung
+
+- question: Was wird an den Berghängen des Kaukasus angebaut?
+  answer: Tee
+
+- question: Was wird aus Winspiritus, Orangen- und Zitronenschalen, Bergamotte- und Rosmarinöl hergestellt?
+  answer: Kölnisch Wasser
+
+- question: Welche Frau lief offiziell als erste die 100 Meter unter elf Sekunden? (1977, in 10,88 s)
+  answer: "Marlies #Goehr#"
+  author: proll
+
+- question: Welche Insekten gaben einem Stück von Sartre den Namen?
+  answer: Fliegen
+
+- question: Welche Rockgruppe hat bei ihren Videoclips einen blinkenden Schlüsselanhänger als Markenzeichen?
+  answer: ZZ Top
+
+- question: Welche Schauspielerin wurde berühmt, weil sie als fünfjähriges Mädchen eine Badehose einpackte?
+  answer: Cornelia Froboess
+
+- question: Welche Säure dient zur Herstellung von Backpulvern?
+  answer: Weinsäure
+
+- question: Welche fuer die Verbesserung des Bodens sorgende Blume wird an Autobahnen ausgesaet?
+  answer: Lupine
+  author: proll
+  level: hard
+
+- question: Welchem Homo widmete Max Frisch ein ganzes Buch?
+  answer: "Homo #Faber#"
+
+- question: Welchen Baum verehren die Japaner schon seit ueber 1000 Jahren?
+  answer: Kirschbaum
+  author: proll
+
+- question: Welchen Film drehte Roman Polanski, als seine Frau umgebracht wurde?
+  answer: Rosmary's Baby
+
+- question: Welchen Namen trägt das Dresdner Opernhaus?
+  answer: Semperoper
+  regexp: Semper[- ]?oper
+
+- question: Welchen Titel hatte das jeweilige Oberhaupt in der Republik Venedig?
+  answer: Doge
+
+- question: Welcher Architekt gab im frühen 19. Jahrhundert der Stadt Berlib ihr Gesicht?
+  answer: Karl Friedrich Schinkel
+  regexp: Schinkel
+
+- question: Welcher Bergsteiger erklomm als erster den Mount Everest ohne Sauerstoffgerät?
+  answer: Reinhold Messner
+
+- question: Welcher Grundsatz in der amerikanischen Verfassung ist einmalig auf der Welt?
+  answer: Recht auf Glück
+
+- question: Welcher Kirchturm in München hat acht Uhren?
+  answer: Alte Peter
+  regexp: Alter? Peter
+
+- question: Welcher Lübercker Konsul starb mit 60 Jahren in den Armen seiner Frau?
+  answer: "Gotthold #Buddenbrock#"
+
+- question: Welcher Schriftsteller wird als Lügenbaron bezeichnet?
+  answer: "Karl Friedrich Freiherr von #Münchhause#"
+
+- question: Welcher Segler bewies, daß die Erde eine Kugel ist?
+  answer: Magellan
+
+- question: Welcher Strom bewegt am meisten Wasser?
+  answer: Amazonas
+
+- question: Welcher Sänger mit Sonnenbrille eroberte eine Prinzessin?
+  answer: Heino
+
+- question: Welcher Tanz kommt aus Brasilien?
+  answer: Samba
+
+- question: Welcher Vogel ging wegen seiner Hackordnung in die Geschichte der Verhaltensforschung ein?
+  answer: Huhn
+
+- question: Welcher Wettbewerbstanz wird durch einen kubanischen Kreisel varriert?
+  answer: Rumba
+
+- question: "Welcher deutsche Bundeskanzler sagte: Die Lage war noch nie so ernst?"
+  answer: Konrad Adenauer
+
+- question: Welcher deutsche Humorist war auch ein begabter Maler?
+  answer: Wilhelm Busch
+  author: proll
+
+- question: Welcher deutsche Industrielle ist auch als Fotograf international bekannt?
+  answer: Gunther Sachs
+
+- question: Welcher grosse englische Fluss entspringt in den Cotswold Hills?
+  answer: Themse
+  author: proll
+
+- question: Welcher preußische Offizier organisierte die amerikanische Armee im Unabhängikkeitskrieg?
+  answer: "Friedrich Wilhelm #von Steuben#"
+
+- question: Welches Bundesland verankerte als erstes den Umweltschutz in der Verfassung?
+  answer: Bayern
+
+- question: Welches Getränk spielte eine Rolle auf dem Weg zur amerikanischen Unabhängikkeit?
+  answer: Tee
+
+- question: Welches Körperteil ließ Charlie Chaplin versichern?
+  answer: seine Füße
+  regexp: Füße
+
+- question: Welches Parfum benutzt Karl Lagerfeld?
+  answer: K. L.
+  regexp: (K. ?L.|Karl Lagerfeld)
+
+- question: Welches Volk erfand die Schokolade?
+  answer: Die Azteken
+  regexp: Azteken
+
+- question: Welches ist das größte Opernhaus Deutschlands?
+  answer: Die Deutsche Oper in Berlin
+  regexp: Deutsche Oper
+
+- question: Welches ist der häufigste Buchstabe der deutschen Sprache?
+  answer: e
+  author: proll
+  level: dumm
+
+- question: Welches ist die groesste Halbinsel der Welt?
+  answer: Arabien
+  regexp: arabische Halbinsel
+  author: proll
+
+- question: Welches ist die höchstmögliche Note, die ein Kampfrichter beim Eiskunstlauf vergibt?
+  answer: 6,0
+
+- question: Welches meist elegante Möbelstück hat duie Bezeichnung eines männlichen Berufs?
+  answer: Sekretär
+
+- question: Wen nennt man den Meister Reineke
+  answer: Fuchs
+
+- question: Wer erhielt in den USA das hoechste Redehonorar?
+  answer: Jehan Sadat
+  author: proll
+  level: extreme
+  score: "2"
+
+- question: Wer gilt als "Erfinder" des Olympischen Fackellaufs?
+  answer: "Carl #Diem#"
+  author: proll
+
+- question: Wer gründete die Salzburger Festspiele?
+  answer: "Max #Reinhardt#"
+
+- question: Wer hat als erstes den Mount Everest bestiegen?
+  answer: Sir Edmund Hillary
+  regexp: Hillary
+
+- question: Wer ist Albert Alexandre Louis Pierre Grimaldi?
+  answer: Fuerst Rainier III. von Monaco
+  regexp: Fuerst Rainier von Monaco
+  author: proll
+  level: extreme
+  score: "2"
+
+- question: Wer ist Isabella Rossellinis Mutter?
+  answer: Ingrid Bergmann
+  author: proll
+  level: hard
+
+- question: Wer ist der Besitzer des Maxim's in Paris?
+  answer: "Pierre #Cardin#"
+  author: proll
+  level: hard
+
+- question: Wer lacht Hans-Guck-in-die-Luft aus?
+  answer: Fische
+
+- question: Wer prägte den Begriff Rundfunk?
+  answer: "Hans #Bredow#"
+
+- question: Wer schaffte es als erste Frau, Libyens Staatschef Gadhafi zu interviewen?
+  answer: Oriana Fallaci
+
+- question: Wer schenkte das Grundstück für das UN-Gebäude in New York?
+  answer: Rockefeller
+
+- question: Wer schuf das Abendmahl in der mailänder Kirche Santa Maria delle Grazie?
+  answer: "Leonardo #da Vinci#"
+
+- question: Wer versucht, aus unedlen Stoffen Gold zu machen?
+  answer: Alchemisten
+  regexp: Alchemist
+
+- question: Wer war Romy Schneiders erster Liebhaber?
+  answer: "Curd #Jürgens#"
+
+- question: Wer war Spaniens eiserner Herzog in den Niederlanden?
+  answer: Herzog Alba
+
+- question: Wer war der Mörder von Sharon Tate?
+  answer: Charles Manson
+
+- question: Wer war der erste Filmstar, der auf einer ofiziellen Briefmarke abgebildet wurde?
+  answer: Grace Kelly
+  author: proll
+
+- question: Wer war der erste deutsche Astronaut im Weltall?
+  answer: "Ulf #Merbold#"
+
+- question: Wer war der letzte Ehemann von Romy Schneider?
+  answer: Daniel Biasini
+
+- question: Wer war die erste Amerikanerin im All?
+  answer: Sally K. Ride
+  regexp: Ride
+
+- question: Wer waren die ersten Europäer die amerikanischen Boden betraten?
+  answer: Wikinger
+
+- question: Wer wurde 1979 erste Präsidentin des dirket gewählten Europaparlaments?
+  answer: "Simone #Veil#"
+
+- question: Wessen Tochter ist Swetlana Allilujewa Peters?
+  answer: "Joseph #Stalin#"
+  author: proll
+  level: hard
+
+- question: Wie bezeichnet man die Identitaetskrise der 35-50-jaehrigen?
+  answer: Midlife-Crisis
+  author: proll
+
+- question: Wie heisst das Haus in New York, in dem Yoko Ono lebt(e)?
+  answer: "#Dakota#-Haus"
+  author: proll
+  level: hard
+
+- question: 'Wie heisst das Stueck, in dem der Koenigssohn ausruft: "Heinrich, der Wagen bricht"?'
+  answer: Froschkoenig
+  author: proll
+
+- question: Wie heisst die Aufzeichnung der Aktionsstroeme des Herzmuskels?
+  answer: Elektrokardiogramm
+  author: proll
+
+- question: Wie heisst die dem Streik entsprechende Kampfmaßnahme der Arbeitgeber?
+  answer: Aussperrung
+  author: proll
+
+- question: Wie heisst die koenligliche englische Yacht?
+  answer: Britannia
+  author: proll
+
+- question: Wie heißt Brünhildes Pferd in Wagners Ring der Nibelungen?
+  answer: Grane
+
+- question: Wie heißt Grönland auf amerikanisch?
+  answer: Greenland
+
+- question: Wie heißt Priscilla Presley mit Mädchennamen?
+  answer: Beaulieu
+
+- question: Wie heißt der Herr, den der Oesterreicher Helmut Qualtinger beruehmt machte?
+  answer: Herr Karl
+  author: proll
+
+- question: Wie heißt der Lichtkreis um den Mond?
+  answer: Hof
+
+- question: Wie heißt der Mäzen, für dessen Sammlung zeitgenössischer Kunst in Köln ein Museum entstand?
+  answer: Peter Ludwig
+
+- question: Wie heißt der erste Ort, den deutsche Auswanderer in Nordamerika gründeten?
+  answer: Germantown
+
+- question: Wie heißt der erste Sohn von Lady Di und Prinz Charles?
+  answer: William
+
+- question: Wie heißt der größte Hochlandsee der Erde?
+  answer: Titicacasee
+
+- question: Wie heißt die Amerikanerin Lisa Halaby heute?
+  answer: Königin Nor von Jordanien
+  regexp: Königin Nor
+
+- question: Wie heißt die Dachorganisation deutscher Gewerkschaften?
+  answer: Deutscher Gewerkschaftsbund
+  regexp: (DGB|Deutscher Gewerkschafts ?Bund)
+
+- question: Wie heißt die Schutzpatronin der Musik?
+  answer: Cäcilia
+
+- question: Wie heißt die Viehfarm in Nordamerika?
+  answer: Ranch
+
+- question: Wie heißt die berühmte Einkaufsstraße in Los Angeles?
+  answer: Rodeo Drive
+
+- question: Wie heißt die neapolitanische Mafia?
+  answer: Camorra
+
+- question: Wie heißt ein Fkußarm, der durch Regulierung eines Flusses stillgelegt wurde?
+  answer: Altwasser
+
+- question: Wie hiess der deutsche Aussenminister, der 1925 den Locarno-Vertrag aushandelte?
+  answer: "Gustav #Stresemann#"
+  author: proll
+
+- question: Wie hieß das französische Königshaus?
+  answer: Bourbonen
+
+- question: Wie ist am Tag das Wetter ueber den Wolken?
+  answer: sonnig
+  author: proll
+  level: baby
+
+- question: Wie läßt sich das Alter von Bäumen bestimmen?
+  answer: durch die Jahresringe
+  regexp: (Ringe|Jahresringe)
+
+- question: Wie nannte man im Mittelalter die Araber?
+  answer: Sarazenen
+
+- question: Wie nannte man im antiken Rom einen Buerger, der dem Staat nur durch den Besitz von Kindern dienlich ist?
+  answer: proletarius
+  author: proll
+  comment: <--- it's me! --->
+
+- question: Wie nennt man das System zur Einteilung des Jahres?
+  answer: Kalender
+
+- question: Wie nennt man die schweren Schneestürme Nordamerikas?
+  answer: Blizzards
+  regexp: Blizzards?
+
+- question: Wie nennt man sehr dünne Platten aus Holz?
+  answer: Furnier
+
+- question: Wie oft war Mao Tse-tung verheiratet?
+  answer: viermal
+  regexp: (viermal|4 ?X)
+
+- question: Wie starb Ernest Hemmingway?
+  answer: "durch #Selbstmord#"
+
+- question: Wie viel wiegt ein Jumbo Jet? (in Tonnen)
+  answer: "350"
+
+- question: Wie viele Umdrehungen pro Minute macht eine Langspielplatte?
+  answer: 33 1/3
+  regexp: 33 (ein drittel|1/3)
+
+- question: Wieveiel Sauerstoff enthält unsere Luft? (Prozent)
+  answer: "21"
+
+- question: Wieviel Prozent der Einwohner Österreichs leben in Städten? (ausschreiben)
+  answer: fünfzig
+  author: proll
+
+- category: Geographie
+  question: Wieviele Staaten grenzen direkt an Brasilien? (ausschreiben)
+  answer: zehn
+
+- category: Geographie
+  question: Wieviele Staaten grenzen direkt an China? (ausschreiben)
+  answer: vierzehn
+
+- category: Geographie
+  question: Wieviele Staaten grenzen direkt an Südafrika? (ausschreiben)
+  answer: sechs
+
+- category: Geographie
+  question: Wo entspringt die Lech?
+  answer: "In den Lechtaler #Alpen#"
+
+- category: Geographie
+  question: Wo fließt der 4510 km lange Fluß Amur?
+  answer: Sibirien
+
+- category: Geographie
+  question: Wo liegt der Jadebusen?
+  answer: Nordsee
+
+- category: Geographie
+  question: Wo sind die breitesten Wasserfälle der Welt? (über 10km breit)
+  answer: Laos
+
+- category: Geographie
+  question: Wo stehen auf 450 Quadratkilometern 300 elektronische Firmen?
+  answer: Silicon Valley
+  author: proll
+  level: easy
+
+- category: Geographie
+  question: Wo steht der Sunandaramaya-Tempel?
+  answer: Sri Lanka
+
+- category: Geographie
+  question: Wofür steht der Begriff APEC (ein Zusammenschluss Asiatisch-Pazifischer Staaten)?
+  answer: Asia-Pacific Economic Cooperation
+
+- category: Geographie
+  question: Wofür steht der Begriff ASEAN (ein Zusammenschluss südostasiatischer Staaten)?
+  answer: Association of Southeast Asian Nations
+
+- category: Geographie
+  question: Wofür steht der Begriff NAFTA (ein Zusammenschluss nordamerikanischer Staaten)?
+  answer: North American Free Trade Agreement
+
+- category: Geographie
+  question: Wofür steht der Begriff OAU (ein Zusammenschluss afrikanischer Staaten)?
+  answer: Organization of African Unity
+
+- category: Geographie
+  question: Zu welchem Gebirge gehoert der "Kahle Asten"?
+  answer: Rothaargebirge
+  author: proll
+
+- category: Geographie
+  question: Zu welchem Staat gehoert die Inselgruppe St. Helena?
+  answer: Grossbritannien
+  author: proll
+
+- category: Geographie
+  question: Zu welchem Staat gehoerte Bangladesh bis 1971?
+  answer: Pakistan
+  author: proll
+
+- category: Geographie
+  question: Zu welchem Teil eines Erdteils gehört die Karibik?
+  answer: Mittelamerika
+
+- category: Geographie
+  question: Zu welchem amerikanischen Küstenstaat zählen die Kokos-Inseln?
+  answer: Costa Rica
+  regexp: Costa[ -]Rica
+  author: proll
+
+- category: Geographie
+  question: Zu welchem europäischem Land gehört die Hauptstadt Tirana?
+  answer: Albanien
+
+- category: Geographie
+  question: Zu welcher Art von Gebäude gehört das Taj Mahal in Indien?
+  answer: Mausoleum
+
+- category: Geographie
+  question: Zum kulturellen Raum Skandinavien gehören Dänemark, Schweden, Finnland und ...!
+  answer: "Norwegen "
+
+- category: Geographie
+  question: Zum kulturellen Raum Skandinavien gehören Norwegen, Finnland, Dänemark und ...!
+  answer: Schweden
+
+- category: Geographie
+  question: Zwischen welchen Erdteilen liegt Indonesien?
+  answer: Zwischen Asien und Australien
+  regexp: (Asien und Australien| Australien und Asien)
+
+- category: Geologie
+  question: Aus welchem Gestein besteht der Kaiserstuhl?
+  answer: Vulkangestein
+  author: proll
+
+- category: Geschichte
+  question: Als was liess Schah Dschanan 1631 das Tadsch Mahal bauen?
+  answer: Grabstaette
+  author: proll
+
+- category: Geschichte
+  question: Gegen welchen Sowjetspion wurde 1962 der US-Pilot Gary Powers (U2-Affaere) ausgetauscht?
+  answer: Rudolf Abel
+  author: proll
+  level: extreme
+  score: "2"
+
+- category: Geschichte
+  question: In Moskau wurde 1605 ein entlaufener Moench gekroent. Welchen Namen gab ihm die Geschichte?
+  answer: "Der #falsche Demetrius#"
+  author: proll
+  level: hard
+
+- category: Geschichte
+  question: In welchem Gebäude in Reims ließen sich franzoesische Koenige gern kroenen?
+  answer: Kathedrale
+  author: proll
+
+- category: Geschichte
+  question: In welchem Jahr wurde die NATO gegründet?
+  answer: "1949"
+
+- category: Geschichte
+  question: Jugendorganisation in der ehemaligen DDR?
+  answer: Freie Deutsche Jugend
+  author: proll
+  level: hard
+
+- category: Geschichte
+  question: Nur ein Staatsmann hat den Literatur-Nobelpreis erhalten. Wer war das?
+  answer: Winston Churchill
+  author: proll
+  level: hard
+
+- category: Geschichte
+  question: Seit welchem Jahrhundert gibt es Papier in Europa?
+  answer: "#12.# Jahrhundert"
+
+- category: Geschichte
+  question: Wann bekam Jordanien seinen heutigen Namen?
+  answer: "1950"
+
+- category: Geschichte
+  question: Wann trat der Deutsche Bundestag zum ersten Mal zusammen?
+  answer: Am 7. September 1949
+  regexp: (7. September 1949|7. ?0?9. ?1949)
+
+- category: Geschichte
+  question: Wann ungefaehr entstand Babylon?
+  answer: dreitausend v. Chr.
+  regexp: (dreitausend|3000) v(or|\.) Chr(\.|istus)
+  author: proll
+
+- category: Geschichte
+  question: Wann wurde in Österreich das Besatzungsregime nach dem 2. Weltkrieg beendet?
+  answer: "1955"
+
+- category: Geschichte
+  question: Was ließ Willi Brandt vom Kanzlerstuhl stürzen?
+  answer: Guillaume Affäre
+  regexp: Guillaume[- ]Affäre
+
+- category: Geschichte
+  question: Welche Stadt wurde durch die Schlacht am Kahlenberg vor der Eroberung gerettet?
+  answer: Wien
+  author: proll
+
+- category: Geschichte
+  question: Welcher Grieche hatte das erste Weltreich der Geschichte erschaffen?
+  answer: Alexander der Große
+
+- category: Geschichte
+  question: Welcher Preis wurde Dag Hammarskjöld einen Monat nach seinem Tod zugesprochen?
+  answer: Friedensnobelpreis
+  regexp: Friedens[ -]Nobelpreis
+  author: proll
+
+- category: Geschichte
+  question: Welcher Schreckensruf der Römer im Krieg gegen Hannibal wurde zum Sprichwort?
+  answer: Hannibal ante Portas
+
+- category: Geschichte
+  question: "Welcher Staatsmann forderte 1957: Laßt tausend Blumen blühen?"
+  answer: Mao Tse-tung
+
+- category: Geschichte
+  question: Welches Exil wählte das griechische Königspaar 1967?
+  answer: England
+
+- category: Geschichte
+  question: Welches Volk hat die Keilschrift erfunden?
+  answer: Sumerer
+  author: proll
+
+- category: Geschichte
+  question: Welches erschütternde Ereignis fand am 11. Sebtember 2001 statt?
+  answer: Anschlag auf das World Trade Center
+
+- category: Geschichte
+  question: Wem gehörte Alaska bis 1867?
+  answer: Russland
+  author: proll
+  level: easy
+
+- category: Geschichte
+  question: Wer bildete das letzte Kabinett vor Hitlers Machtübernahme?
+  answer: "Kurt von #Schleicher#"
+
+- category: Geschichte
+  question: Wer erfand 1445 den Buchdruck?
+  answer: Johannes Gutenberg
+  regexp: Gutenberg
+
+- category: Geschichte
+  question: Wer erreichte im Jahre 1911 als erster den Südpol?
+  answer: Roald Amundsen
+  regexp: Amundsen
+
+- category: Geschichte
+  question: Wer flog das erste Flugzeug zwischen New York und Paris?
+  answer: Charles Lindbergh
+  regexp: Lindbergh
+
+- category: Geschichte
+  question: Wer hat den Seeweg nach Ostindien entdeckt?
+  answer: Vasco da Gama
+  author: proll
+
+- category: Geschichte
+  question: Wer setzte 1804 Napoleon die Kaiserkrone auf?
+  answer: "er #sich selbst#"
+
+- category: Geschichte
+  question: Wer stiftete den Nobelpreis?
+  answer: Alfred Nobel
+  author: proll
+  level: baby
+
+- category: Geschichte
+  question: Wer ueberquerte als erster Mensch den Atlantik in einem Motorflugzeug?
+  answer: "Charles #Lindbergh#"
+  author: proll
+
+- category: Geschichte
+  question: Wer unternahm die erste Forschungsresie nach China?
+  answer: Marco Polo
+
+- category: Geschichte
+  question: Wer war 1948/49 Praesident des Parlamentarischen Rates?
+  answer: "Konrad #Adenauer#"
+  author: proll
+
+- category: Geschichte
+  question: Wer war der erste Regierungschef der DDR?
+  answer: "Otto #Grotewohl#"
+  author: proll
+
+- category: Geschichte
+  question: Wer wurde nach dem Tod von Walter Ulbricht 1973 Generalsekretär des ZK der SED?
+  answer: "Erich #Honecker#"
+
+- category: Geschichte
+  question: Wer wurde von Kanzler Schmidt zweimal mit dem Amt des Regierungssprechers betraut?
+  answer: "Klaus #Bölling#"
+
+- category: Geschichte
+  question: Wie alt war Ludwig der XIV., als er König von Frankreich wurde?
+  answer: 4 Jahre
+  regexp: (4|vier)
+
+- category: Geschichte
+  question: Wie heisst der Krieg, den England 1899-1902 in Suedafrika fuehrte?
+  answer: Burenkrieg
+  author: proll
+  level: hard
+
+- category: Geschichte
+  question: Wie heisst die beruehmteste Spionin des Ersten Weltkriegs?
+  answer: Mata Hari
+  author: proll
+  level: hard
+
+- category: Geschichte
+  question: Wie heißt Englands erste, 1584 gegründete Kolonie in Amerika?
+  answer: Virginia
+
+- category: Geschichte
+  question: Wie heißt das 1907 zwischen Rußland, Frankreich und England geschlossene Bündnis?
+  answer: Entente
+
+- category: Geschichte
+  question: Wie heißt der österreichische Bundeskanzler, der 1934 ermordet wurde?
+  answer: Engelbert Dollfuß
+
+- category: Geschichte
+  question: Wie hieß das Schiff, auf dem 1905 russische Matrosen bei Odessa meuterten?
+  answer: Potemkin
+
+- category: Geschichte
+  question: Wie hieß der Chef der deutschen Abwehr unter Hitler?
+  answer: "Admiral #Canaris#"
+
+- category: Geschichte
+  question: Wie hieß der bekannteste Mitstreiter von Friedrich Engels?
+  answer: Karl Marx
+
+- category: Geschichte
+  question: Wie hieß der deutsche Befehlshaber vor Stalingrad, der 1943 kapitulieren mußte?
+  answer: Generalfeldmarschall Friedrich Paulus
+  regexp: Paulus
+
+- category: Geschichte
+  question: Wie hieß der französische Offizier, dessen Affäre 1894 die Welt erregte?
+  answer: Alfred Dreyfus
+
+- category: Geschichte
+  question: Wie hießen die Kriegsentschädigungen, die Deutschland nach dem ersten Weltkrieg zalhen mußte?
+  answer: Reparationen
+
+- category: Geschichte
+  question: Wie hießen die mittelalterlichen Kriegsunternehmen zur Befreiung Jerusalems?
+  answer: Kreuzzüge
+  author: proll
+  level: easy
+
+- category: Geschichte
+  question: Wie lange war Konrad Adenauer Bundeskanzler?
+  answer: vierzehn Jahre
+  author: proll
+
+- category: Geschichte
+  question: Wie nannte man die Emanzipationsbewegungen im Ostblock nach Stalins Tod?
+  answer: Tauwetter
+  author: proll
+  level: hard
+
+- category: Geschichte
+  question: Wie nannte man die Feldherren von Alexander dem Grossen, die sich sein Reich teilten?
+  answer: Diadochen
+  author: proll
+  level: hard
+
+- category: Geschichte
+  question: Wie nannte sich die Organisation deutscher Länder 1815?
+  answer: Deutscher Bund
+
+- category: Geschichte
+  question: Wie nennt man den israelisch-japanischen Krieg von 1973?
+  answer: Jom-Kippur-Krieg
+  regexp: Jom[ -]Kippur[ -]Krieg
+  author: proll
+  level: hard
+
+- category: Geschichte
+  question: Wo fand 1945 das erste erfolgreiche Atombombenexperiment statt?
+  answer: Los Alamos
+
+- category: Geschichte
+  question: Wo fand am 8. 11. 1939 ein mißglücktes Attentan auf Hitler statt?
+  answer: Im Münchner Bürgerbräukeller
+  regexp: München
+
+- category: Geschichte
+  question: Wo fand das erste innerdeutsche Gipfelgespräch zwischen Brandt und Stoph statt?
+  answer: Erfurt
+
+- category: Geschichte
+  question: Wo fand, der Legende zufolge, Archimedes das "Archimedische Prinzip"?
+  answer: "#Bad#ewanne"
+  author: proll
+  level: easy
+
+- category: Geschichte
+  question: Wo wurde der preußische König Wilhelm als Wilhelm I. zum deutschen Kaiser proklamiert?
+  answer: Versailles
+
+- category: Geschichte
+  question: Wodurch starben im Dezember 1952 in London ca. 4000 Menschen?
+  answer: "#Smog#-Katastrophe"
+  author: proll
+
+- category: Kunst
+  question: Auf welcher Südseeinsel malte Paul Gauguin?
+  answer: Tahiti
+
+- category: Kunst
+  question: Auf welches Material wurde die Mona Lisa gemalt?
+  answer: Holz
+
+- category: Kunst
+  question: Welche beruehmte griechische Dame im Louvre ist trotz fehlender Arme vollendet schoen?
+  answer: "#Venus# von Milo"
+  author: proll
+
+- category: Kunst
+  question: Welcher Name eines deutschen Malers der Romantik besteht aus drei Vornamen?
+  answer: "[KC]aspar David Friedrich"
+
+- category: Kunst
+  question: Welcher bedeutende Maler der italienischen Renaissance starb an seinem 37 Geburtstag?
+  answer: Raffael
+
+- category: Kunst
+  question: Welcher französische Maler lebte von 186 bis 1954?
+  answer: Henri Matisse
+
+- category: Kunst
+  question: Wer malte 1910 das erste abstrakte Bild?
+  answer: "Wassily #Kandinsky#"
+
+- category: Kunst
+  question: Wer malte das Bild, das in Kassel durch ein Säureattentat zerstört wurde?
+  answer: Rembrandt
+
+- category: Kunst
+  question: Wer malte den Alten Fritz beim Floetenkonzert in Sanssouci?
+  answer: "Adolf #von Menzel#"
+  author: proll
+  level: hard
+
+- category: Kunst
+  question: Wie nennt man ein Bild in den leblose Gegenstände dargestellt werden?
+  answer: Stilleben
+
+- category: Kunst
+  question: Über welchen holländischen Maler wurde zu seinem Lebzeiten ein Konkursverfahren gehängt?
+  answer: Rembrandt
+
+- category: Kurioses
+  question: Durch welche Insekten wurde 1878 in Ungarn ein Zug aufgehalten?
+  answer: Tausendfuessler
+  author: proll
+
+- category: Literatur
+  question: An welcher Krankheit litt der Schriftsteller Thomas Bernard?
+  answer: Tuberkulose
+  author: proll
+  level: easy
+
+- category: Literatur
+  question: Bei welcher Temperatur faengt in Ray Bradburys Roman Papier Feuer?
+  answer: 451 Grad Fahrenheit
+  author: proll
+  level: hard
+
+- category: Literatur
+  question: Bekannter Autor (Die Reise zum Mittelpunkt der Erde, 2 Jahre Ferien)!
+  answer: Jules Verne
+
+- category: Literatur
+  question: In was verwandelt sich die Kafka Gestalt Gregor Samsa?
+  answer: In einen Käfer
+  regexp: Käfer
+
+- category: Literatur
+  question: In welchem Drama war Sein oder Nichtsein die Frage?
+  answer: Hamlet
+
+- category: Literatur
+  question: Von wem ist das Herbstgedicht "Drachenlied"?
+  answer: Brecht
+
+- category: Literatur
+  question: Von wem ist der Gedicht "Der Herbst"?
+  answer: Heym
+
+- category: Literatur
+  question: Von wem stammen die sogenannten "Keuner-Geschichten"?
+  answer: Brecht
+
+- category: Literatur
+  question: Von wem stammt "Max und Moritz"? (voller Name)
+  answer: Wilhelm Busch
+
+- category: Literatur
+  question: Von wem stammt das Buch '2 Jahre Ferien'? (voller Name)
+  answer: Jules Verne
+
+- category: Literatur
+  question: Von wem stammt das Gedicht "O trübe diese Tage nicht"?
+  answer: Fontane
+
+- category: Literatur
+  question: Von wem stammt das Gedicht "Oktoberlied"?
+  answer: Storm
+
+- category: Literatur
+  question: Von wem stammt der Roman "Berlin Alexanderplatz"?
+  answer: "Alfred #Doeblin#"
+  author: proll
+
+- category: Literatur
+  question: Was für ein Tier aus Holz spielt in der Ilias eine entscheidende Rolle?
+  answer: Pferd
+
+- category: Literatur
+  question: Welche Geschichte wird auch noch "Bubengeschichte in sieben Streichen" genannt?
+  answer: Max und Moritz
+
+- category: Literatur
+  question: Welche literarische Epoche kam vor der Sturm & Drang Zeit?
+  answer: Aufklärung
+
+- category: Literatur
+  question: Welchen Beruf hatte Heinrich Hoffmann, der Autor vom "Struwwelpeter"?
+  answer: Irrenarzt
+  author: proll
+  level: hard
+
+- category: Literatur
+  question: Welchen Beruf hatte Kafka erlernt?
+  answer: Versicherungsangestellter
+
+- category: Literatur
+  question: Welchen Dispoten stellte Bertolt Brecht in Der aufhaltsame Aufstieg des Arturo Ui dar?
+  answer: Hitler
+
+- category: Literatur
+  question: Welchen altpersischen Religionsstifter nahm Nietzsche als philosophische Symbolfigur?
+  answer: Zarathustra
+
+- category: Literatur
+  question: Welcher Autor motivierte Erich Kästner zu seinem Kinderbuch Gullivers Reisen?
+  answer: Jonathan Swift
+
+- category: Literatur
+  question: Welcher Dichter starb im Juli 1985?
+  answer: "Heinrich #Böll#"
+
+- category: Literatur
+  question: "Welcher Schriftsteller sagte: Mit Doktor Tolstori würde ich es aufnehmen und ihn k.o. schlagen?"
+  answer: "Ernest #Hemingway#"
+
+- category: Literatur
+  question: Welcher Schweizer Physiker und Wirtschaftsfachmann schrieb 'Der blinde Fleck'?
+  answer: Kowalski
+
+- category: Literatur
+  question: Welcher deutsche Erfolgsautor war bis zu seinem 5. Lebensjahr blind?
+  answer: Karl May
+
+- category: Literatur
+  question: Welcher russische Schriftsteller war dem Spiel verfallen und schrieb darueber einen Roman?
+  answer: "Fedor #Dostojewskij#"
+  regexp: Dostojewsk[yi]j?
+  author: proll
+
+- category: Literatur
+  question: Welches Buch von Margret Mitchwell wurde zum größten Roman-Bestseller Amerikas?
+  answer: Vom Winde verweht
+
+- category: Literatur
+  question: Welches Buch wurde zum Kultbuch der amerikanischen Hippie-Bewegung?
+  answer: "Der #Steppenwolf#"
+
+- category: Literatur
+  question: Welches ist das meistverkaufte Buch der Welt?
+  answer: "Die #Bibel#"
+
+- category: Literatur
+  question: Wer kreirte für Hemingway und andere Schriftsteller den Begriff Lost Generation?
+  answer: "Gertrude #Stein#"
+
+- category: Literatur
+  question: "Wer sagt in der Literatur zum wem: Heinrich, mir graut vor dir?"
+  answer: Gretchen zu Faust
+
+- category: Literatur
+  question: Wer schrieb "Nathan der Weise"?
+  answer: Lessing
+
+- category: Literatur
+  question: Wer schrieb 'Das Lied von der Moldau'?
+  answer: Brecht
+
+- category: Literatur
+  question: Wer schrieb 'Das fehlende Glied in der Kette'? (voller Name)
+  answer: Agatha Christie
+
+- category: Literatur
+  question: Wer schrieb 'Der Steuermann'?
+  answer: Kafka
+
+- category: Literatur
+  question: Wer schrieb 'Der zerbrochne Krug'?
+  answer: Kleist
+
+- category: Literatur
+  question: Wer schrieb 'Die Räuber'?
+  answer: Schiller
+
+- category: Literatur
+  question: Wer schrieb 'Willkommen und Abschied'?
+  answer: Goethe
+
+- category: Literatur
+  question: Wer schrieb Liebesbriefe an Milena?
+  answer: "Franz #Kafka#"
+
+- category: Literatur
+  question: Wer schrieb das Gedicht "Herbstbild"?
+  answer: Hebbel
+
+- category: Literatur
+  question: Wer schrieb das Gedicht "Winternacht"?
+  answer: Keller
+
+- category: Literatur
+  question: Wer schrieb das Herbstgedicht "Im Nebel"?
+  answer: Hesse
+
+- category: Literatur
+  question: Wer schrieb das Schauspiel 'Der Hauptmann von Köpenick'?
+  answer: Zuckmayer
+
+- category: Literatur
+  question: Wer schrieb die Boulevardkomödie Vater einer Tochter?
+  answer: "Curth #Flatow#"
+
+- category: Literatur
+  question: Wessen einziger Roman hieß Des Kardinals Maitresse?
+  answer: "Benito #Mussolini#"
+
+- category: Literatur
+  question: Wie bezeichnet man die Norm der Schreibung?
+  answer: Orthographie
+
+- category: Literatur
+  question: Wie heisst der Partner von Sherlock Holmes?
+  answer: Dr. Watson
+  regexp: (Dr Watson|Do[ck]tor Watson)
+  author: proll
+
+- category: Literatur
+  question: Wie heißt der 4. deutsche Fall?
+  answer: Akkusativ
+
+- category: Literatur
+  question: Wie heißt der Autor einiger Akte X Romane?
+  answer: Anderson
+
+- category: Literatur
+  question: Wie heißt der französische Kaiser, der die Novelle "Clisson und Eugenie" schrieb?
+  answer: Napoleon Bonaparte
+  author: proll
+
+- category: Literatur
+  question: Wie heißt die Autorin von 'Pippi Langstrumpf'? (voller Name)
+  answer: Astrid Lindgren
+
+- category: Literatur
+  question: Wie heißt die unglückliche Ehefrau, die Gustave Flaubert beschrieb?
+  answer: Madame Bovary
+  regexp: Bovary
+
+- category: Literatur
+  question: Wie hiess die Familie von Julia aus "Romeo und Julia"?
+  answer: Capulet
+  author: proll
+
+- category: Literatur
+  question: Wie lautet der vollständige Name Lessings?
+  answer: Gotthold Ephraim Lessing
+
+- category: Literatur
+  question: Wie nennt man Texte, in denen einfache Sätze und Satzverbindungen überwiegen?
+  answer: parataktisch
+
+- category: Literatur
+  question: Wie nennt man Texte, in denen zahlreiche Satzgefüge und untergeordnete Nebensätze enthalten sind?
+  answer: hypotaktisch
+
+- category: Literatur
+  question: Wie nennt man bei Gedichten den sogenannten "abab-Reim" noch?
+  answer: Kreuzreim
+
+- category: Literatur
+  question: Wie nennt man das Fachwort in der Literatur für Beschönigung?
+  answer: Euphemismus
+
+- category: Literatur
+  question: Wie nennt man das Fachwort in der Literatur für Übertreibung?
+  answer: Hyperbel
+
+- category: Literatur
+  question: Wie nennt man dei Beugung eines Verbs?
+  answer: Konjugation
+
+- category: Literatur
+  question: Wie nennt man die Lehre vom Satzbau?
+  answer: Syntax
+
+- category: Literatur
+  question: Wie nennt man ein Erzählgedicht mit spannender Handlung?
+  answer: Ballade
+
+- category: Literatur
+  question: Wie nennt man ein rückbezügliches Fürwort noch?
+  answer: Reflexivpronomen
+
+- category: Literatur
+  question: Wie nennt man eine "Vermenschlichung" lebloser Dinge oder Pflanzen?
+  answer: Personifikation
+
+- category: Literatur
+  question: Wie nennt man eine Nachsilbe noch?
+  answer: Suffix
+
+- category: Literatur
+  question: Wie nennt man eine kurze Geschichte, in der eine Lehre oder Moral vermittelt wird?
+  answer: Fabel
+
+- category: Literatur
+  question: Wie nennt man einen Vers, der auf dem Gleichklang von Wörtern beruht?
+  answer: Reim
+
+- category: Literatur
+  question: Wieviele Wörter hat der längste Satz der deutschen Literatur?
+  answer: "ueber #sechstausend#"
+  author: proll
+  level: hard
+
+- category: Literatur
+  question: Wo findet sich der längste Satz in der deutschen Literatur?
+  answer: Im lyrischen Zyklus "#Phantasus#" von Arno Holz
+  author: proll
+  level: extreme
+  score: "2"
+
+- category: Literatur/Geschichte
+  question: Wer gab den Befehl fuer die Hinrichtung der schottischen Koenigin Maria Stuart?
+  answer: Elizabeth I
+  author: proll
+  level: easy
+
+- category: Maerchen
+  question: Wo starb die Hexe im Märchen von Hänsel und Gretel?
+  answer: Backofen
+
+- category: Mathe
+  question: Welche geometrische Figur ist die Erde?
+  answer: Ellipsoid
+  author: proll
+  level: hard
+
+- category: Mathe
+  question: Welhe Zahl drückt das Verhältnis des Kreisumfangs zu seinem Durchmesser an?
+  answer: Pi
+
+- category: Medizin
+  question: An welcher Erbkrankheit, die von Frauen uebertragen wird, erkranken nur Maenner?
+  answer: Bluterkrankheit
+  author: proll
+
+- category: Medizin
+  question: Bei welcher Krankheit sprechen die Mediziner von "Himbeerzunge"?
+  answer: Scharlach
+  author: proll
+
+- category: Medizin
+  question: Bei welcher Krankheit spricht man von "grand mal"?
+  answer: Epilepsie
+  author: proll
+  level: hard
+
+- category: Medizin
+  question: Gegen welche Krankheitserreger wirken Antibiotika?
+  answer: Bakterien
+  author: proll
+  level: baby
+
+- category: Medizin
+  question: Wie nennt man sichtbare Ausstossungen aus der Hornschicht der Haut?
+  answer: Schuppen
+  author: proll
+  level: easy
+
+- category: Musik
+  question: Aus welcher Stadt in England stammen die Beatles?
+  answer: Liverpool
+
+- category: Musik
+  question: Durch welche musikalische Technik wurde Ilse Werner bekannt?
+  answer: Pfeifen
+
+- category: Musik
+  question: Für welches Instrument komponierte Karl Czemy Die Schule der Geläufigkeit?
+  answer: Für das Klavier
+  regexp: (Piano|Klavier)
+
+- category: Musik
+  question: In welchem musikalischen Märchen erklärt der Komponist Serge Prokofieff die Instrumente?
+  answer: Peter und der Wolf
+
+- category: Musik
+  question: Unter Welchem Namen ist der Rock Start Reg Dwight besser bekannt?
+  answer: Elton John
+
+- category: Musik
+  question: Was für einen Beruf übte Salieri aus?
+  answer: Komponist
+
+- category: Musik
+  question: Welche Kuenstlergruppe entstand aus den Anfangsbuchstaben der Staedte Kopenhagen, Bruessel und Amsterdam?
+  answer: Cobra
+  regexp: Kobra
+  author: proll
+
+- category: Musik
+  question: Welchem Saenger wurde der Titel "Professor" verliehen?
+  answer: Udo Juergens
+  author: proll
+
+- category: Musik
+  question: Welcher Popstart gilt als Brillenfetischist?
+  answer: Elton John
+
+- category: Musik
+  question: Welcher Song der Spider Murphy Gang dreht sich um die Welt der leichten Mädchen?
+  answer: Skandal im Sperrbezirk
+
+- category: Musik
+  question: Welcher berühmte Dirigent hat einen ebenfalls berühmten Vater?
+  answer: Carlos Kleiber
+
+- category: Musik
+  question: Welcher verstorbene Pianist galt als radikaler Bachinterpret?
+  answer: Glenn Gould
+  author: proll
+  level: extreme
+  score: "2"
+
+- category: Musik
+  question: Welches Genie wurde von Bayerns König Ludwig II. gefördert?
+  answer: "Richard #Wagner#"
+
+- category: Musik
+  question: Wer dirigierte die Urauffuehrung des "Rosenkavalier" von Richard Strauss?
+  answer: Richard Strauss
+  regexp: er selbst
+  author: proll
+
+- category: Musik
+  question: Wer siegte 1982 beim Grand Prix in Harrogate?
+  answer: Nicole
+
+- category: Musik
+  question: Wer war 1984 Deutschlands erfolgrecihster Schlagerproduzent?
+  answer: Jack White
+
+- category: Musik
+  question: Wer war der fast gleichaltrige Schwiegervater von Richard Wagner
+  answer: Franz Liszt
+
+- category: Musik
+  question: Wer wird als Rock-Oma bezeichnet?
+  answer: Tina Turner
+
+- category: Musik
+  question: Wer überholte sogar Michael Jackson als Pop Idol?
+  answer: Prince
+
+- category: Musik
+  question: Wie heißt der gemeinsame Sohn von Cynthia und John Lennon?
+  answer: Julian
+
+- category: Musik
+  question: Wo befindet sich während einer Opernaufführung das Orchester?
+  answer: Orchestergraben
+
+- category: Musik
+  question: Wo stand die Wiege des Jazz?
+  answer: New Orleans
+  author: proll
+  level: easy
+
+- category: Musik
+  question: Woher stammt der Reggae?
+  answer: Jamaika
+  regexp: Jamai[ck]a
+  author: proll
+  level: baby
+
+- category: Mythologie
+  question: In welcher Form kam Zeus zu Leda?
+  answer: "als #Schwan#"
+
+- category: Mythologie
+  question: Wem reichte Paris in der griechischen Sage den goldenen Apfel?
+  answer: Aphrodite
+  author: proll
+  level: hard
+
+- category: Mythologie
+  question: Wie hiess die treue Gemahlin des Koenigs Odysseus?
+  answer: Penelope
+  author: proll
+
+- category: Physik
+  question: Ab welcher Geschwindigkeit eines Autos überwiegt der Luftwiderstand den Rollwiderstand? (in km/h, ausschreiben)
+  answer: achtzig
+  author: proll
+
+- category: Physik
+  question: Nach wem wurde die elektrische Spannung benannt?
+  answer: "Alessandro Graf #Volta#"
+
+- category: Physik
+  question: Was bildet sich, wenn starke UV-Strahlen durch Sauerstoff dringen?
+  answer: Ozon
+  author: proll
+
+- category: Physik
+  question: Was ergibt die Sumem aller Farben?
+  answer: weiß
+
+- category: Physik
+  question: Was ist das Zentrum eines Atoms?
+  answer: Der Atomkern
+  regexp: Kern
+
+- category: Physik
+  question: Was wiegt ein Nichtteilchen
+  answer: nichts
+  author: proll
+  level: easy
+
+- category: Physik
+  question: Welche Farbe der Sonnenstrahlung wird an Luftpartikeln gebrochen?
+  answer: blau
+  author: proll
+
+- category: Physik
+  question: Wer hat die absolute Temperaturskala aufgestellt?
+  answer: Kelvin
+  author: proll
+  level: baby
+
+- category: Physik
+  question: Wie heißt die kurzzeitige Einwirkung einer Kraft auf einen Körper?
+  answer: Stoß
+
+- category: Physik
+  question: Wie nennt man ein elektrisches Energiedepot?
+  answer: Batterie
+
+- category: Physik
+  question: Woraus setzt sich ein Klang zusammen?
+  answer: Toene
+  author: proll
+
+- category: Physik & Wirtschaft
+  question: Wieviel würde ein Blitz kosten, wenn er als Strom aus der Steckdose kaeme?
+  answer: dreizehn DM
+  regexp: (dreizehn|13) (DM|Mark)
+  author: proll
+
+- category: Politik
+  question: Muß der Kandidat für das Amt des Bundespräsidenten einer Partei angeören?
+  answer: nein
+
+- category: Politik
+  question: Unter welchem Staatsmann entstand der Begriff friedliche Koexistenz?
+  answer: Chruschtschow
+
+- category: Politik
+  question: Von wem wird er Bundespräsident gewählt?
+  answer: Von der Bundesversammlung
+  regexp: Bundesversammlung
+
+- category: Politik
+  question: Was kostete die USA etwas 150 Milliarden Dollar?
+  answer: Vietnamkrieg
+
+- category: Politik
+  question: Welche Frau war 1984 Kandidat der Demokraten für das Amt des US-Vizepräsidenten?
+  answer: Geraldine Ferraro
+
+- category: Politik
+  question: Welcher Staatsbesuch Nixons 1972 galt als Veraenderung der weltpolitischen Situation?
+  answer: China
+  author: proll
+
+- category: Politik
+  question: Welches Amt uebernahm Winston Churchill mit Kriegsbeginn 1939?
+  answer: Marineminister
+  author: proll
+  level: hard
+
+- category: Politik
+  question: Wie hiess der langjaehrige chinesische Ministerpraesident unter Mao?
+  answer: Tschou En-lai
+  author: proll
+  level: extreme
+  score: "2"
+
+- category: Politik
+  question: Wie hieß der Gegenkandidat Gustav Heimanns bei der Bundespräsidentenwahl 1969?
+  answer: "Gerhard #Schröder#"
+
+- category: Politik
+  question: Wie hieß die oberste Volksvertretung der DDR?
+  answer: Volkskammer
+
+- category: Politik
+  question: Wie nennt man den Vertrag ueber die deutsch-franzoesische Zusammenarbeit von 1963 noch?
+  answer: "#Elysee#-Vertrag"
+  author: proll
+  level: hard
+
+- category: Politik
+  question: Wie oft darf ein Bundespräsident wiedergewählt werden?
+  answer: einmal
+
+- category: Politik
+  question: Wieviele Bundeskanzler hatte die BRD bis zum 1. Januar 1985? (ausschreiben)
+  answer: sechs
+
+- category: Raumfahrt
+  question: Welche Sonde untersuchte den Planeten Merkur?
+  answer: Mariner 10
+  author: proll
+  level: hard
+
+- category: Raumfahrt
+  question: Wie hiess das erste Raederfahrzeug auf dem Mond?
+  answer: "#Lunochod# I"
+  author: proll
+
+- category: Rekorde
+  question: Das größte ... besteht aus 204484 Teilen!
+  answer: Puzzle
+
+- category: Rekorde
+  question: In welchem Park stehen mit 5 Millionen Bäumen die meisten Bäume überhaupt?
+  answer: Central Park
+
+- category: Rekorde
+  question: Was tat Martin Bukovsek (Stuttgart) 1993 16:16:16 Std. lang?
+  answer: Stillstehen
+
+- category: Rekorde
+  question: Was war 7,48m hoch und lebte vom 31.12.96 bis zum 18.02.97?
+  answer: Schneemann
+
+- category: Rekorde
+  question: Welche Schuhgröße hat der größte Lederschuh der Welt?
+  answer: "247"
+
+- category: Rekorde
+  question: Welches ist das meistgetrunkenste Getränk der Welt?
+  answer: Coca Cola
+
+- category: Rekorde
+  question: Welches ist das meistverkaufte Schmerzmittel der Welt?
+  answer: Aspirin
+
+- category: Rekorde
+  question: Welches ist der größte Vergnügungspark Europas?
+  answer: Disneyland
+
+- category: Rekorde
+  question: Welches ist die häufigste ansteckende Krankheit?
+  answer: Schnupfen
+
+- category: Rekorde
+  question: Welches ist die umsatzstärkste Restaurankette Europas?
+  answer: McDonald's
+
+- category: Rekorde
+  question: Wie heißt das größte Auktionshaus der Welt?
+  answer: Christie's
+
+- category: Rekorde
+  question: Wie hieß die erste Briefmarke der Welt, die am 1.Mai 1840 zum ersten mal gedruckt wurde?
+  answer: Penny Black
+
+- category: Rekorde
+  question: Wie lang ist die längste Bratwurst der Welt? (gerundet, in Meter)
+  answer: "3600"
+
+- category: Rekorde
+  question: Wie oft gibt es die Stadt Berlin auf dieser Welt?
+  answer: 128 mal
+
+- category: Rekorde
+  question: Wie schwer war der schwerste je lebende Mensch (Jon Brower Minnoch)?
+  answer: 635 kg
+
+- category: Rekorde
+  question: Wo fand die größte internationale Spielwarenmesse (1997) statt?
+  answer: Nürnberg
+
+- category: Rekorde
+  question: Wovon sammelte Petra Engels (D) 15046 Stück aus 92 Ländern?
+  answer: Radiergummis
+
+- category: Rekorde
+  question: Wovon sammelte William B. Christensen 75000 Stück (alle unterschiedlich) aus 125 Ländern?
+  answer: Bierdosen
+
+- category: Rekorde) Wieviele Gummibärchen werden täglich von Haribo Bonn (D
+  question: produziert?
+  answer: 3 Millionen
+
+- category: Religion
+  question: Wieviele Ehefrauen sind einem Mohammedaner gestattet?
+  answer: vier
+  author: proll
+
+- category: Religion (Scherzfrage?)
+  question: Welches Tier hat die Sintflut ueberlebt, obwohl es nicht in der Arche war?
+  answer: Fisch
+  author: proll
+  level: easy
+
+- category: Scherzfrage
+  question: Wann sollte man aufhoeren, dumme Quizfragen zu stellen?
+  answer: Jetzt oder nie!
+  regexp: (jetzt|nie)
+  author: proll
+  comment: das ist zum Beispiel so eine dumme Frage
+
+- category: Scherzfrage
+  question: Was ergibt sieben mal sieben?
+  answer: feinen Sand
+
+- category: Scherzfrage
+  question: Was ist weder drinnen noch draussen?
+  answer: Fenster
+  author: proll
+
+- category: Scherzfrage
+  question: Was ist, wenn ein Farbiger in den Schnee faellt?
+  answer: Winter
+  author: proll
+
+- category: Scherzfrage
+  question: Was sollte unbedingt in einem Bierkrug sein?
+  answer: Boden
+  author: proll
+
+- category: Scherzfrage
+  question: Was wächst stets nach unten?
+  answer: Eiszapfen
+
+- category: Scherzfrage
+  question: Welche Blume traegt der Mensch nicht gerne im Gesicht?
+  answer: Veilchen
+  author: proll
+  level: baby
+
+- category: Scherzfrage
+  question: Welche Krankheit kommt in keinem Land vor?
+  answer: Seekrankheit
+
+- category: Scherzfrage
+  question: Welcher Apfel wird niemals rot?
+  answer: Erdapfel
+  author: proll
+
+- category: Scherzfrage
+  question: Welcher Bart wird nie gestutzt?
+  answer: Schlüsselbart
+
+- category: Scherzfrage
+  question: Welcher Fink kann nicht fliegen, hinterlaesst aber deutliche Spuren?
+  answer: Schmutzfink
+  author: proll
+
+- category: Scherzfrage
+  question: Welcher Hahn kräht niemals?
+  answer: Wasserhahn
+
+- category: Scherzfrage
+  question: Welcher Hase wird nicht vom Fuchs verfolgt?
+  answer: Angsthase
+
+- category: Scherzfrage
+  question: Welcher König kann sehr gut fliegen?
+  answer: Zaunkönig
+
+- category: Scherzfrage
+  question: Welcher Vogel schwebt in der Luft, kann aber nicht fliegen?
+  answer: Galgenvogel
+  author: proll
+  comment: irgendwie makaber
+
+- category: Scherzfrage
+  question: Wem brennt, einmal im Leben, so richtig der Kopf?
+  answer: Streichholz
+  regexp: Zuendholz
+  author: proll
+
+- category: Scherzfrage
+  question: Wer ist geringer als ein König und doch über ihm?
+  answer: sein Hut
+  regexp: Hut
+
+- category: Scherzfrage
+  question: Wer nimmt ab und zu ab und ab und zu zu?
+  answer: Mond
+  author: proll
+  level: baby
+
+- category: Scherzfrage
+  question: Wer weiß am Besten, was den Leuten fehlt?
+  answer: "Der #Dieb#"
+
+- category: Scherzfragen
+  question: Im Sommer bekleidet, im Winter nackt! Was ist das?
+  answer: Laubbaum
+
+- category: Scherzfragen
+  question: Man wirft es weiss vom Dach und es kommt unten gelb an! Was ist das?
+  answer: Ei
+
+- category: Scherzfragen
+  question: Ohne waschen ist es sauber, es wird durch waschen überhaupt erst schmutzig! Was ist das?
+  answer: Wasser
+
+- category: Scherzfragen
+  question: Was kommt einer Katze am nächsten, wenn sie am Fenster eine Maus im Garten beobachtet?
+  answer: Glasscheibe
+
+- category: Scherzfragen
+  question: Was will jeder werden, aber niemand sein?
+  answer: alt
+
+- category: Scherzfragen
+  question: Welche Bilder kann man nur im Dunkeln sehen?
+  answer: Sternbilder
+
+- category: Scherzfragen
+  question: Welche Kinder kommen mit Schnurrbart auf die Welt?
+  answer: Katzenkinder
+
+- category: Scherzfragen
+  question: Welche Krankheit kennt man auf dem Lande nicht?
+  answer: Seekrankheit
+
+- category: Scherzfragen
+  question: Welche Schuhe gehen durch übermässiges Laufen nicht kaputt?
+  answer: Handschuhe
+
+- category: Scherzfragen
+  question: Welcher Fall tut nicht weh?
+  answer: Beifall
+
+- category: Scherzfragen
+  question: Welches Abführmittel ist eisenhaltig?
+  answer: Handschellen
+
+- category: Scherzfragen
+  question: Welches Getränk kostet heute noch genauso viel wie vor 50 Jahren?
+  answer: Freibier
+
+- category: Scherzfragen
+  question: Welches Laub wächst nicht, sondern wird immer kleiner?
+  answer: Urlaub
+
+- category: Scherzfragen
+  question: Wenn zwei ein Paar sind und drei eine Gruppe, was sind dann 4 und 5?
+  answer: neun
+
+- category: Scherzfragen
+  question: Wer kann alle Sprachen sprechen?
+  answer: Echo
+
+- category: Scherzfragen
+  question: Wer lebt vom Rauch?
+  answer: Schornsteinfeger
+
+- category: Scherzfragen
+  question: Wie nennt man einen verheirateten Beamten mit 5 Kindern?
+  answer: Vater
+
+- category: Scherzfragen
+  question: Wo sagen sich der Fuchs und Hase gute Nacht?
+  answer: im Freien
+
+- category: Sport
+  question: Aus wievielen Disziplinen besteht der Zehnkampf *huh*? (ausschreiben)
+  answer: zehn
+
+- category: Sport
+  question: Aus wievielen Feldspielern besteht eine Basketball-Mannschaft? (ausschreiben)
+  answer: fünf
+
+- category: Sport
+  question: Aus wievielen Spielern besteht eine American Football Mannschaft? (ausschreiben)
+  answer: elf
+
+- category: Sport
+  question: Bei welcher Sportart gibt es Strike's und Spare's?
+  answer: Bowling
+
+- category: Sport
+  question: Die beste deutsche Weitspringerin aller Zeiten? (voller Name)
+  answer: Heike Drechsler
+
+- category: Sport
+  question: Ein sehr erfolgreicher deutscher Ski-Adler! Jens ... !
+  answer: Weißpflog
+
+- category: Sport
+  question: In was unterteilt man längere Straßenrennen beim Radsport?
+  answer: Etappen
+
+- category: Sport
+  question: In welchem Jahr fand die erste deutsche Fussball-Bundesliga Partie statt?
+  answer: "1963"
+
+- category: Sport
+  question: In welchem Jahr gewann Jan Ullrich die Tour de France?
+  answer: "1997"
+
+- category: Sport
+  question: In welchem Jahr wurde die Tour de France zum ersten Mal gefahren?
+  answer: "1903"
+
+- category: Sport
+  question: In welcher Sportart findet der alljährliche Super-Bowl statt und bringt Millionen Amerikaner in Rage?
+  answer: Football
+
+- category: Sport
+  question: James Fisher erfand diese Abwandlung vom Skateboard 1989!
+  answer: Snakeboard
+
+- category: Sport
+  question: Mit welchem Verein wurde Micheal 'Air' Jordan 6maliger NBA Champion?
+  answer: Chicago Bulls
+
+- category: Sport
+  question: Mit welcher Motorsportart fing Michael Schuhmacher in seiner Heimatstadt Kerpen an?
+  answer: Go-Kart
+
+- category: Sport
+  question: Sie gehören in den Halbzeitpausen (zumeist amerikanischer) Sportarten einfach dazu!
+  answer: Cheerleader
+
+- category: Sport
+  question: Wann wurde Henry Maske erstmals Profi-Weltmeister im Boxen? (xx.xx.xxxx)
+  answer: "20.03.2000"
+
+- category: Sport
+  question: Was bedeutet im Sumo-Ringen das Wort Yokozuna auf deutsch?
+  answer: Großmeister
+
+- category: Sport
+  question: Was bekommt man als Führender in der Gesamtwertung in der Tour de France?
+  answer: gelbes Trikot
+
+- category: Sport
+  question: Was gibt es, wenn es in einem Pokalspiel im Fussball nach 90 Minuten noch immer Unentschieden steht?
+  answer: Verlängerung
+
+- category: Sport
+  question: Welche Formel 1 Grand-Prix Strecke ist die kürzeste und führt sogleich über Gullis, an einem Kasino vorbei und durch einen Tunnel?
+  answer: Monte Carlo
+
+- category: Sport
+  question: Welche Mannschaft gewann den Super Bowl 2001? (voller Name)
+  answer: Baltimore Ravens
+
+- category: Sport
+  question: Welche Mannschaft ist Rekordmeister im deutschen Basketball?
+  answer: Bayer Leverkusen
+
+- category: Sport
+  question: Welche Mannschaft ist Rekordmeister im deutschen Fussball?
+  answer: Bayern München
+
+- category: Sport
+  question: Welche Sportart erfanden britische Soldaten Mitte des 19. Jahrhunderts, als sie im Hafen von Kingston mit Ball und Schläger spielten?
+  answer: Hockey
+
+- category: Sport
+  question: Welche Sportart spielt Prinz Charles in seiner Freizeit?
+  answer: Polo
+
+- category: Sport
+  question: Welche Tennisspielerin schaffte die meisten Einzel-Turniersiege überhaupt? (voller Name)
+  answer: Martina Navratilova
+
+- category: Sport
+  question: Welche Tiere werden beim Polo-Sport eingesetzt?
+  answer: Pferde
+
+- category: Sport
+  question: Welche bekannte Berliner Schwimmerin konnte schon viele Erfolge feiern, aber noch nie eine Goldmedaille erlangen? (voller Name)
+  answer: Franziska van Almsick
+
+- category: Sport
+  question: Welche russische Tennisschönheit gewann noch keinen Einzeltitel? (voller Name)
+  answer: Anna Kournikowa
+
+- category: Sport
+  question: Welchen Sport betreibt Jörg Roßkopf?
+  answer: Tischtennis
+
+- category: Sport
+  question: Welcher Boxer wurde von Mike Tyson ins Ohr gebissen? (voller Name)
+  answer: Evander Holyfield
+
+- category: Sport
+  question: Welcher Pole entwickelte sich zum Überflieger der Vier-Schanzen-Tournee 2000/2001? (voller Name)
+  answer: Adam Malysz
+
+- category: Sport
+  question: Welcher Selbstverteidigungs-Sport aus dem Fernen Osten wurde 1964 olympisch?
+  answer: Judo
+
+- category: Sport
+  question: Welcher Surfer gewann von 1990 bis 1995 insgesamt 19 Weltmeistertitel?
+  answer: Dunkerbeck
+
+- category: Sport
+  question: Welcher amerikanische Leichtathlet hält den Weltrekord über 200m und 400m und gewann bereits 7 WM Titel?
+  answer: Micheal Johnson
+
+- category: Sport
+  question: Welcher deutsche Basketballspieler ist auch als "The German Wunderkind" bekannt?
+  answer: Dirk Nowitzki
+
+- category: Sport
+  question: Welcher junge Golfspieler erlangte aufgrund seiner plötzlichen Erfolge praktisch über Nacht zu Ruhm?
+  answer: Tiger Woods
+
+- category: Sport
+  question: Welcher sympathische Deutsche Zehnkämpfer wurde bei den Olympischen Spielen '96 Zweiter? (voller Name)
+  answer: Frank Busemann
+
+- category: Sport
+  question: Welches ist die begehrteste Vereinstrophäe im amerikanischen Eishockey?
+  answer: Stanley Cup
+
+- category: Sport
+  question: Welches ist die letzte Stufe vor der Formel 1 im Motorsport?
+  answer: Formel 3000
+
+- category: Sport
+  question: Wer gewann die Rallye Paris - Dakar im Jahr 2001?
+  answer: Jutta Kleinschmidt
+
+- category: Sport
+  question: Wer gewann im Alter von 17 Jahren und 227 Tagen als jüngster Spieler aller Zeiten das Tennisturnier Wimbledon? (voller Name)
+  answer: Boris Becker
+
+- category: Sport
+  question: Wer gilt als "der Rebell" und bester deutscher Handballer überhaupt? (voller Name)
+  answer: Stefan Kretzschmar
+
+- category: Sport
+  question: Wer gilt als das Supertalent des deutschen Fussballs und spielt zur Zeit (Febr. 2001) bei Hertha BSC? (voller Name)
+  answer: Sebastian Deisler
+
+- category: Sport
+  question: Wer gilt als der beste und legendärste Basketballspieler aller Zeiten? (voller Name)
+  answer: Micheal Jordan
+
+- category: Sport
+  question: Wer ist der bislang erfolgreichste deutsche Golfspieler?
+  answer: Langer
+
+- category: Sport
+  question: Wer schoss bei der EM '96 im Finale die beiden Tore für Deutschland? (voller Name)
+  answer: Oliver Bierhoff
+
+- category: Sport
+  question: Wie alt wurde der DFB am 28. Januar 2000?
+  answer: 100 Jahre
+
+- category: Sport
+  question: Wie bezeichnet man das "Herunterfahren" eines Berges auf nur einem Brett?
+  answer: Snowboarding
+
+- category: Sport
+  question: Wie ging das Spiel im DFB-Pokal Halbfinale 00/01 zwischen Union Berlin und Borussia Mönchengladbach aus?
+  answer: "6:4"
+
+- category: Sport
+  question: Wie heißt Jaques Villeneuves Vater, der 1982 tödlich verunglückte?
+  answer: Gilles
+
+- category: Sport
+  question: Wie heißt der Vorname des Bruders von Ralf Schuhmacher?
+  answer: Michael
+
+- category: Sport
+  question: Wie heißt die 'schwergewichtige' Sportart aus Japan?
+  answer: Sumo
+
+- category: Sport
+  question: Wie lautet der Spitzname von Dariusz Michealczewski?
+  answer: Tiger
+
+- category: Sport
+  question: Wie lautet der zweite Vorname von Shaquille O'Neal?
+  answer: Rashaun
+
+- category: Sport
+  question: Wie nennt man das Billard-ähnliche Spiel, dass auf einem Tisch ohne Löcher/Taschen gespielt wird?
+  answer: Karambol-Billard
+
+- category: Sport
+  question: Wie wird die Olympiade der Juden genannt?
+  answer: Makkabiade
+
+- category: Sport
+  question: Wie wird ein Schiedsrichter beim Boxen genannt?
+  answer: Referee
+
+- category: Sport
+  question: Wieviele Goldmedaillen erlangte Deutschland bei den Olympischen Spielen 2000 in Sydney? (ausschreiben)
+  answer: vierzehn
+
+- category: Sport
+  question: Wofür steht die Abkürzung DFB?
+  answer: Deutscher Fussball Bund
+
+- category: Sport
+  question: Zweifacher finnischer Weltmeister aus der Formel 1? (voller Name)
+  answer: Mika Hakkinen
+
+- category: Sport & Spiel
+  question: An welchem Gerät kann man einen Unterarmstütz turnen?
+  answer: Barren
+
+- category: Sport & Spiel
+  question: An welchem Gerät turnen die Schweizer einen Streuli*
+  answer: Barren
+
+- category: Sport & Spiel
+  question: Auf welchem Berliner Platz wurde die Turnbewegung gegruendet?
+  answer: Hasenheide
+  author: proll
+  level: hard
+
+- category: Sport & Spiel
+  question: Auf welcher Rennstrecke verunglückte Formel 1 Pilot Gilles Villneuve 1983 tödlich?
+  answer: Zolder
+
+- category: Sport & Spiel
+  question: Bei welchem Spiel kann man mit einem Dreier schon gewinnen?
+  answer: Poker
+  author: proll
+
+- category: Sport & Spiel
+  question: Bei welcher Sportart gehoert ein Besen zur Ausruestung der Spieler?
+  answer: Curling
+  author: proll
+
+- category: Sport & Spiel
+  question: In welcher Disziplin gewann Peter Michael Kolbe 1984 olympisches Silber?
+  answer: Einer-Rudern
+  regexp: Einer-?Rudern
+  author: proll
+  level: hard
+
+- category: Sport & Spiel
+  question: In welcher Disziplin wurde Claudia Losch 1984 Olympiasiegerin?
+  answer: Kugelstoßen
+  author: proll
+
+- category: Sport & Spiel
+  question: In welcher Sportart freut man sich ueber einen Ippon?
+  answer: Judo
+  author: proll
+  level: easy
+
+- category: Sport & Spiel
+  question: In welcher Sportart freut man sich über einen Home Run?
+  answer: Baseball
+
+- category: Sport & Spiel
+  question: In welcher Sportart gibt es den Caddie?
+  answer: Golf
+
+- category: Sport & Spiel
+  question: In welcher Stadt liegt das groesste Stadion der Welt?
+  answer: Prag
+  author: proll
+
+- category: Sport & Spiel
+  question: In welcher Stilart im Ringen duerfen Griffe nicht unter der Guertellinie angesetzt werden?
+  answer: griechisch-roemisch
+  author: proll
+
+- category: Sport & Spiel
+  question: Wann fanden die ersten olympischen Spiele in Altgriechenland statt?
+  answer: 776 v. Chr.
+  regexp: 776 v(\.|or) Chr(\.|istus|i Geburt)
+
+- category: Sport & Spiel
+  question: Was will der Segler, wenn er "Ree" schreit?
+  answer: wenden
+  author: proll
+
+- category: Sport & Spiel
+  question: Welche Sportart wird auch Deltasegeln genannt?
+  answer: Drachenfliegen
+
+- category: Sport & Spiel
+  question: Welchen Pokal gewann Deutschland bei der Fussball-WM 1966 trotz des Verlusts des Titels?
+  answer: Fair-Play-Pokal
+  regexp: Fair[ -]Play[ -]Pokal
+  author: proll
+
+- category: Sport & Spiel
+  question: Welchen Trainer des FC Bayern bezeichnete Sepp Maier als laufenden Meter?
+  answer: "Dettmar #Kramer#"
+
+- category: Sport & Spiel
+  question: Welcher Boxer durchbrach als erster die "they never come back"-Regel?
+  answer: "Floyd #Patterson#"
+  author: proll
+  level: hard
+
+- category: Sport & Spiel
+  question: Welcher Fußballspieler wurde aufgrund seiner Leistungen geadelt?
+  answer: Stanley Matthews
+  regexp: Matt?hews
+
+- category: Sport & Spiel
+  question: Welcher Tennisspieler gehörte bis 1985 über 10 Jahre lang zu den Top 10 der Weltrangliste?
+  answer: Jimmy Connors
+
+- category: Sport & Spiel
+  question: Welcher fruehere Eisschnelllaeufer hoert auf den Spitznamen "Kid Cool"?
+  answer: "Eric #Heiden#"
+  author: proll
+  level: hard
+
+- category: Sport & Spiel
+  question: Welcher sportliche Wettbewerb erinnert an eine Schlacht in den griechischen Perserkriegen?
+  answer: Marathonlauf
+  regexp: Marathon
+
+- category: Sport & Spiel
+  question: Welches Crew-Mitglied muß beim Segeln ins TRapez?
+  answer: Vorschotmann
+
+- category: Sport & Spiel
+  question: Wen trainierte Jupp Derwall nach Beendigung seiner DFB-Karriere?
+  answer: Galatasaray Istanbul
+
+- category: Sport & Spiel
+  question: Wer traegt beim Radrennen das Regebogentrikot?
+  answer: Weltmeister
+  author: proll
+  level: easy
+
+- category: Sport & Spiel
+  question: Wer war 1985 italienischer Fussballmeister?
+  answer: "Hellas #Verona#"
+  author: proll
+
+- category: Sport & Spiel
+  question: Wer war der erste deutsche Fußbalprofi der nach Itlaien ging?
+  answer: "Karl Heinz #Schnellinger#"
+
+- category: Sport & Spiel
+  question: Wer wurde 1984/85 Torschützenkönig der Bundesliga?
+  answer: "Klaus #Allofs#"
+
+- category: Sport & Spiel
+  question: Wie bezeichnen Jollensegler ihr Ruder?
+  answer: Pinne
+  author: proll
+
+- category: Sport & Spiel
+  question: Wie bezeichnet man in der Schweiz und in Italien üblicherweise ein Radstadion?
+  answer: Velodrom
+
+- category: Sport & Spiel
+  question: Wie heisst das europaeische Spiel, das mit einem ovalen Ball gespielt wird?
+  answer: Rugby
+  author: proll
+  level: easy
+
+- category: Sport & Spiel
+  question: Wie heisst die Erfinderin der Biellmann-Pirouette mit Vornamen?
+  answer: Denise
+  author: proll
+  level: hard
+
+- category: Sport & Spiel
+  question: Wie heißen die beim Kricket herabzuschlagenden Querstäbe?
+  answer: Bails
+
+- category: Sport & Spiel
+  question: Wie heißt beim Billard der Stock, mit dem die Kugel gestoßen wird?
+  answer: Queue
+
+- category: Sport & Spiel
+  question: Wie heißt das Radrennen mit Spezialrädern über eine Hindernisbahn?
+  answer: BMX
+  regexp: (Bicycle Motocross|BMX)
+
+- category: Sport & Spiel
+  question: Wie heißt der deutsche Radrennfahrer, der in den sechziger Jahren seine größten Erfolge feierte?
+  answer: Rudi Altig
+
+- category: Sport & Spiel
+  question: Wie heißt die Schachfigur mit dem geringsten Wert?
+  answer: Bauer
+
+- category: Sport & Spiel
+  question: Wie nennen die Kanuten die Gummischürze, die die Sitzluke wasserdicht macht?
+  answer: Spritzdecke
+
+- category: Sport & Spiel
+  question: Wie nennen die Ruderer ein Übungsbootß
+  answer: Gig
+
+- category: Sport & Spiel
+  question: Wie nennt der Fußballer ein Foul im letzten Moment?
+  answer: Notbremse
+
+- category: Sport & Spiel
+  question: Wie nennt man Handballspieler, die nicht direkt am Kreis agieren?
+  answer: Rückraumspieler
+
+- category: Sport & Spiel
+  question: Wie nennt man beim Boccia die kleine Kugel?
+  answer: Pallino
+
+- category: Sport & Spiel
+  question: Wie nennt man das Rennrodeln, wenn der mit dem Kopf vorraus auf dem Schlitten liegt?
+  answer: Skeleton
+
+- category: Sport & Spiel
+  question: Wie nennt man die Rennbahn bei Galopprennen?
+  answer: Geläuf oder Turf
+  regexp: (Turf|Geläuf)
+
+- category: Sport & Spiel
+  question: Wie nennt sich die höchste Wertung, die man beim American Football erreichen kann?
+  answer: Touch Down
+  regexp: Touch ?Down
+
+- category: Sport & Spiel
+  question: Wie nennt sich die kleinste Gewichtsklasse beim Taekwondo?
+  answer: Nadelgewicht
+
+- category: Sport & Spiel
+  question: Wie weit kann man beim Skat mit einem Pik-Spiel mindestens reizen?
+  answer: zweiundzwanzig
+  author: proll
+
+- category: Sport & Spiel
+  question: Wieviel Einkommenssteuer muß man bei Monopoly bezahlen?
+  answer: "#4000# DM"
+
+- category: Sport & Spiel
+  question: Wieviele Pfeile verschiesst ein olympischer Bogenschuetze beim Wettkanpf? (ausschreiben)
+  answer: zweihundertachtundachtzig
+  author: proll
+
+- category: Sport & Spiel
+  question: Wieviele Spieler gehoeren zu einer Rollhockey-Mannschaft? (ausschreiben)
+  answer: sechs
+  author: proll
+
+- category: Sport & Spiel
+  question: Wieviele Sportarten werden durch einen DSV betreut?
+  answer: "#fuenf# (Schach, Segeln, Schwimmen, Skisport, Schiessen)"
+  author: proll
+
+- category: Sport & Spiel
+  question: Wo fand 1985 die Basketball-EM statt?
+  answer: Deutschland
+  author: proll
+
+- category: Sport & Spiel
+  question: Wo fanden 1968 die Olympischen Winterspiele statt?
+  answer: Grenoble
+
+- category: Sport & Spiel
+  question: Wo sitzt beim Rudern der Schlagmann?
+  answer: hinten
+
+- category: Sport & Spiel
+  question: Wo zielt man auf die Nullscheibe?
+  answer: Fallschirmspringen
+  author: proll
+  level: hard
+
+- category: Sport & Spiel
+  question: Wofür ist der Boxer Jupp Elze ein abschreckendes Beispiel?
+  answer: Doping
+
+- category: Sport & Spiel
+  question: Zu welchem Verein wechselte Horst Hrubesch für die Saison 1985/86?
+  answer: "Borussia #Dortmund#"
+
+- category: Technik
+  question: Auf einer Karte im Maßstab 1:400000 sind 5 Zentimeter wieviele Kilometer in der Natur?
+  answer: 20 Kilometer
+  regexp: (20|zwanzig)
+
+- category: Technik
+  question: Aus was abute Morse seinen ersten Versuchstelegrafen?
+  answer: Staffelei
+
+- category: Technik
+  question: Steigt oder sinkt die Zimmertemperatur bei offenem Kühlschrank?
+  answer: "sie #sinkt#"
+
+- category: Technik
+  question: Unter welchem Begriff laufen die Farben Rot, Orange, Grün, Blau, Gelb, Indigo und Voilett?
+  answer: Spektralfarben
+
+- category: Technik
+  question: Von wo aus wurde die erste Luftaufnahme der Welt angefertigt?
+  answer: Ballon
+  author: proll
+
+- category: Technik
+  question: Was erfand Pascal durch Experimente über Bewegungsabläufe?
+  answer: Roulette
+
+- category: Technik
+  question: Was für ein Strom fließt in einer Taschenlampe?
+  answer: Gleichstrom
+
+- category: Technik
+  question: Was ist das lauteste Geräusch das jemals erzeugt wurde?
+  answer: 210 Dezibel mit einer Betonhupe?
+  regexp: "210"
+
+- category: Technik
+  question: Was ist das natürlichste Vergrößerungsgerät?
+  answer: "Ein #Wassertropfen#"
+
+- category: Technik
+  question: Was ist eine Fata Morgana?
+  answer: Luftspiegelung
+
+- category: Technik
+  question: Was sind cruise missiles?
+  answer: Mittelstreckenraketen
+
+- category: Technik
+  question: Was war der Vorlaeufer des Fahrrades?
+  answer: Laufrad
+  author: proll
+
+- category: Technik
+  question: Was war die erste Maschine, die elektrischen Strom erzeugte?
+  answer: Dynamo
+
+- category: Technik
+  question: Was wird bei der Klingel elektromagnetisch in Bewegung versetzt?
+  answer: Wagnersche Hammer
+
+- category: Technik
+  question: Welches Oel ist zur Herstellung von Linoleum notwendig?
+  answer: Leinoel
+  author: proll
+
+- category: Technik
+  question: Welches Schwermetall ist im herkoemmlichen Fieberthermometer?
+  answer: Quecksilber
+  author: proll
+  level: baby
+
+- category: Technik
+  question: Wer erfand die mechanische Uhr?
+  answer: "Peter #Henlein#"
+
+- category: Technik
+  question: Wer wandelt mechanische Energie in elektrische um?
+  answer: Generator
+  author: proll
+  level: baby
+
+- category: Technik
+  question: Wie heisst das Geschoss beim Armbrustschießen?
+  answer: Bolzen
+  author: proll
+  level: easy
+  comment: Alle D2-Spieler müssen es wissen
+
+- category: Technik
+  question: Wie heißt der Empfänger für Strahlungen?
+  answer: Detektor
+
+- category: Technik
+  question: Wie nennt man den Abstand zwischen zwei Endpunkten einer Strecke?
+  answer: Länge
+
+- category: Technik
+  question: Wieviel Kilo hat ein Zentner?
+  answer: 50 Kilo
+  regexp: (50|fünfzig)
+
+- category: Technik
+  question: Wieviele Windungen hatte die erste funktionierende Schiffsschraube?
+  answer: zwei
+  regexp: (2|zwei)
+
+- category: Technik
+  question: Wo liegen Ueberseetelefonkabel?
+  answer: Meeresboden
+  author: proll
+
+- category: Technik
+  question: Womit mißt man die Stärke eines Erdbebens?
+  answer: Seismograph
+
+- category: Technik/Geschichte
+  question: Wer war der eigentliche Erfinder des Telefons?
+  answer: "Philipp #Reis#"
+  author: proll
+  level: hard
+
+- category: Wer meinte
+  question: Morgens um sieben ist die Welt noch in Ordnung?
+  answer: Eric Malpaß
+  regexp: Malpaß
+
+- question: Wieviele Toreros wurden von 1941 bis 1985 durch Stiere getoetet?
+  answer: einer
+  author: proll
+
+- question: Wo brachten sich 700 Menschen durch einen Kollektivselbstmord um?
+  answer: Britisch Guyana
+
+- question: Wo kommen Aerosole vor?
+  answer: Stratosphaere
+  author: proll
+  level: hard
+
+- question: Wo liegt der Northumberland National Park?
+  answer: England
+
+- question: Wo starb Maria Callas?
+  answer: Paris
+
+- question: Wo wiegt auf der Erde ein Gewicht am meisten?
+  answer: An den Polen
+  regexp: Polen
+
+- question: Womit war der Transatlantik-Zeppelin Hindenburg gefüllt, der 1937 explodierte?
+  answer: Wasserstoff
+
+- question: Woraus bestehen Schneeflocken?
+  answer: Eiskristallen
+
+- question: Woraus gewannen die alten Kulturvölker den Farbstoff Purpur?
+  answer: Aus der Murex-Schnecke
+  regexp: Murex[- ]?schnecke
+
+- question: Woraus wird der Süßstoff Saccharin gewonnen?
+  answer: Steinkohlenteer
+
+- question: Worüber entschied im alten Griechenland das Scherbengericht?
+  answer: Verbannung
+
+- question: Zu welchem Land gehoert Gibraltar?
+  answer: Grossbritannien
+  author: proll
+
+- question: Zu welcher Dynastie gehört das Lilienbanner?
+  answer: "zu den #Bourbonen#"

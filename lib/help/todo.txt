@@ -1,0 +1,6 @@
+RxBot Quiz TODOs
+* !hint/!tip command (instant hint)
+* Announce new game to channels/players.
+* Ask players for questions-set to use.
+* High-score (MoxQuizz "allstars")
+* Merge questions by language.

@@ -1,0 +1,809 @@
+title: quizzen
+comment: >-
+  These questions were provided by the ppl on #quizzen
+  a german quizchannel on IRCnet.
+  Edited by Moxon.
+author: Codey
+lastEdit: 2001/08/16 13:59:12
+language: de
+
+questions:
+- category: Allgemein
+  question: Was bedeutet "Patient" im eigentlich Sinne?
+  answer: Erleidend
+  regexp: (Erleidend|Erduldend)
+  level: normal
+
+- category: Allgemein
+  question: Was bedeutet Guerilla wortwörtlich übersetzt?
+  answer: kleiner Krieg
+  level: hard
+
+- category: Allgemein
+  question: Was bedeutet auf italienischen Wasserhähnen das Wort "caldo"?
+  answer: heiss
+  regexp: (heiss|warm)
+  level: normal
+
+- category: Allgemein
+  question: Was bedeutet die geheimnisvolle Abkürzung "MAD"?
+  answer: Militärischer Abschirmdienst
+  level: normal
+
+- category: Allgemein
+  question: Was dreht sich am Tag zweimal im Kreis?
+  answer: Stundenzeiger
+  level: easy
+
+- category: Allgemein
+  question: Was gelang Christiaan Barnard am 4.12.1967?
+  answer: "Die 1. #Herztransplantation#"
+  regexp: Herz[- ]?transplantation
+  level: hard
+
+- category: Allgemein
+  question: Was meint man, wenn man eine Nonne "Spinner" nennt?
+  answer: Schmetterling
+  level: normal
+
+- category: Allgemein
+  question: Welche Farbe hat Vino Bianco?
+  answer: weiss
+  level: easy
+
+- category: Allgemein
+  question: Welche Zutat gibt dem Bier seinen herben Geschmack?
+  answer: Hopfen
+  level: easy
+
+- category: Allgemein
+  question: Welcher Feldherr sagte "Soldaten gewinnen die Schlacht, Generäle den Ruhm"?
+  answer: Napoleon
+  level: normal
+
+- category: Allgemein
+  question: Welches Metall ist seltener als Uran oder Platin und doch in fast jedem Haushalt zu finden?
+  answer: Quecksilber
+  level: normal
+
+- category: Allgemein
+  question: Welches berühmte Produkt kommt aus Meissen?
+  answer: Porzellan
+  level: normal
+
+- category: Allgemein
+  question: Welches europäische Land führte im August 1983 sein erstes Steuergesetz ein?
+  answer: Andorra
+  level: normal
+
+- category: Allgemein
+  question: Welches obergärige Bier wird bevorzugt im Kölner Raum getrunken?
+  answer: Kölsch
+  level: easy
+
+- category: Allgemein
+  question: Wen feiert das englische Stratford-upon-Avon als seinen berühmtesten Sohn?
+  answer: "William #Shakespeare#"
+  level: hard
+
+- category: Allgemein
+  question: Wie heissen die Pferde der spanischen Hofreitschule in Wien?
+  answer: Lipizzaner
+  regexp: Lipp?izz?aner
+  level: normal
+
+- category: Allgemein
+  question: Wie nennt man Flugzeuge mit zwei Tragflächen?
+  answer: Doppeldecker
+  level: easy
+
+- category: Allgemein
+  question: Wie nennt man einen Stall für Hunde?
+  answer: Zwinger
+  level: easy
+
+- category: Allgemein
+  question: Wieviele Mühlesteine braucht man für eine Zwickmühle? (Ausschreiben)
+  answer: Fünf
+  level: normal
+
+- category: Allgemein
+  question: Wieviele engl. Zoll gehen auf einen engl. Fuss?
+  answer: "12"
+  level: normal
+
+- category: Allgemein
+  question: Wo klingelte das Telefon, wenn man 0228-561 wählte?
+  answer: "Im #Bundeskanzleramt#"
+  level: hard
+
+- category: Allgemein
+  question: Wo wurde der bislang grösste Canyon entdeckt?
+  answer: "Auf dem #Mars#"
+  regexp: Mars
+  level: normal
+
+- category: Allgemein
+  question: Wofür steht das Kürzel "OK" ?
+  answer: All correct
+  level: normal
+
+- category: Allgemein
+  question: Woraus bestehen die Särge Ferdinands und Isabellas von Spanien, die in der Kathedrale von Granada beigesetzt sind?
+  answer: Blei
+  level: normal
+
+- category: Allgemein
+  question: Woraus wurden die ersten Würfel hergestellt?
+  answer: Tierknöchel
+  regexp: (Tierknöchel|Tierknochen)
+  level: normal
+
+- category: Anatomie
+  question: Welcher menschliche Knochen heisst "Klavikula"?
+  answer: Schlüsselbein
+  level: normal
+
+- category: Biologie
+  question: An was für einer Pflanze wachsen Datteln?
+  answer: Palme
+  level: easy
+
+- category: Biologie
+  question: Was für eine Pflanze ist die Totentrompete?
+  answer: Pilz
+  level: normal
+
+- category: Biologie
+  question: Was ist Tetanus?
+  answer: Blutvergiftung
+  level: normal
+
+- category: Biologie
+  question: Was ist eine "Musca Domestica"?
+  answer: Fliege
+  level: normal
+
+- category: Biologie
+  question: Was nennen die Biologen "Caninae"?
+  answer: Hunde
+  level: normal
+
+- category: Biologie
+  question: Was tun weibliche Mücken, männliche aber nicht?
+  answer: Stechen
+  level: normal
+
+- category: Biologie
+  question: Welches Tier kann am längsten in Gefangenschaft überleben?
+  answer: Riesenschildkröte
+  level: normal
+
+- category: Biologie
+  question: Wieviel Volt erzeugt ein Zitteraal?
+  answer: "600"
+  level: hard
+
+- category: Biologie
+  question: Wo hat ein Skorpion seine Ohren?
+  answer: "In den #Beine#n"
+  regexp: Beinen?
+  level: normal
+
+- category: Biologie
+  question: Woher nehmen Bäume ca. 90% ihrer Nahrung?
+  answer: "Aus der #Luft#"
+  regexp: Luft
+  level: normal
+
+- category: Comics
+  question: Welche Farben hat die gestreifte Hose von Obelix?
+  answer: Blau und Weiss
+  regexp: (Blau.*Weiss|Weiss.*Blau)
+  level: baby
+
+- category: Erdkunde
+  question: In welcher Stadt steht der Stephansdom?
+  answer: Wien
+  level: normal
+
+- category: Erdkunde
+  question: "Was ist auf der Kuppel des Petersdoms zu sehen: Eine Kugel oder ein Kreuz?"
+  answer: Beides
+  level: normal
+
+- category: Erdkunde
+  question: Welche Sprache wird in der Toskana gesprochen?
+  answer: Italienisch
+  level: normal
+
+- category: Erdkunde
+  question: Welche Stadt in den USA hat die meisten Kirchen?
+  answer: Las Vegas
+  level: normal
+
+- category: Erdkunde
+  question: Welche Stadt muss man im Dezember besuchen, um den Christkindlmarkt zu erleben?
+  answer: Nürnberg
+  level: normal
+
+- category: Erdkunde
+  question: Welche Stadt nennt ihre Altstadt "Plaka"?
+  answer: Athen
+  level: normal
+
+- category: Erdkunde
+  question: Welcher berühmte Londoner Platz mit der Nelson-Säule ist nach einer Seeschlacht benannt?
+  answer: Trafalgar Square
+  level: normal
+
+- category: Erdkunde
+  question: Welches Land ist die Heimat der Fluggesellschaft TAP?
+  answer: Portugal
+  level: normal
+
+- category: Erdkunde
+  question: Welches Land nannten die Römer "Caledonia"?
+  answer: Schottland
+  level: normal
+
+- category: Erdkunde
+  question: Welches ist das kleinste Land Mittelamerikas?
+  answer: El Salvador
+  level: normal
+
+- category: Erdkunde
+  question: Wie heisst Australiens nationale Fluggesellschaft?
+  answer: Qantas
+  regexp: (Qu?antas)
+  level: normal
+
+- category: Erdkunde
+  question: Wie heisst Siam heute?
+  answer: Thailand
+  level: normal
+
+- category: Erdkunde
+  question: Wie heisst die grösste Insel Europas?
+  answer: England
+  level: normal
+
+- category: Erdkunde
+  question: Wie nennen die Düsseldorfer ihre Königsallee?
+  answer: Kö
+  level: normal
+
+- category: Erdkunde
+  question: Wie viele Strassen führen auf den Pariser Triumphbogen zu? (ausschreiben)
+  answer: Zwoelf
+  level: normal
+
+- category: Erdkunde
+  question: Wieviele Menschen haben auf dem Nordpol Platz? (ausschreiben)
+  answer: Einer
+  level: normal
+
+- category: Erdkunde
+  question: Wo ist der Hauptsitz von Interpol?
+  answer: Paris
+  level: normal
+
+- category: Erdkunde
+  question: Wo steht die Metropolitan Opera?
+  answer: New York
+  level: normal
+
+- category: Erdkunde
+  question: Wo steht die Prachtkirche "Hagia Sophia"?
+  answer: Istanbul
+  level: normal
+
+- category: Erdkunde
+  question: Wofür steht das Nationalitätenkennzeichen "AUS"?
+  answer: Australien
+  level: normal
+
+- category: Erdkunde
+  question: Wohin fliesst die Rhone?
+  answer: Mittelmeer
+  level: normal
+
+- category: Erdkunde
+  question: Zu welchem Land gehört die Insel Gotland?
+  answer: Schweden
+  level: normal
+
+- category: Essen & Trinken
+  question: Welches Land hat den höchsten Pro-Kopf-Verbrauch an Käse?
+  answer: Frankreich
+  level: normal
+
+- category: Essen & Trinken
+  question: Welches Pfirsich-Dessert wurde nach einem Opern-Star benannt?
+  answer: Pfirsich Melba
+  level: normal
+
+- category: Film & Fernsehen
+  question: In welchem Film spielt Sylvester Stallone einen Vietnamkämpfer, der US-Soldaten befreit?
+  answer: Rambo
+  level: easy
+
+- category: Film & Fernsehen
+  question: Was hat Popeye auf seinem Arm eintätowiert?
+  answer: Anker
+  level: easy
+
+- category: Film & Fernsehen
+  question: Welche Fernsehserie spielte in dem verschlafenen Westerndorf "Walnut Grove"?
+  answer: Unsere kleine Farm
+  level: normal
+
+- category: Film & Fernsehen
+  question: Welcher polnische Regisseur entdeckte Natassja Kinski für den Film?
+  answer: Roman Polanski
+  level: normal
+
+- category: Film & Fernsehen
+  question: Welches Fest in Venedig wird in dem Film "Die nackte Frau" ausgiebig gefeiert?
+  answer: Karneval
+  regexp: ([KC]arneval|Carnvale)
+  level: normal
+
+- category: Film & Fernsehen
+  question: Wer war der Regisseur des Films "Todesmelodie"? (Vor- u. Nachname)
+  answer: Sergio Leone
+  level: hard
+
+- category: Film & Fernsehen
+  question: Wer war der Unterhalter mit "Souvenirs, Souvenirs"?
+  answer: Chris Howland
+  level: normal
+
+- category: Film & Fernsehen
+  question: Wie hiess der Durbridge-Krimi, in dem Ruth Maria Kubitschek bereits nach 5 min. als Leiche endete?
+  answer: Melissa
+  level: extreme
+
+- category: Film & Fernsehen
+  question: Wie viele Oscars bekam "Vom Winde verweht"?
+  answer: Neun
+  level: normal
+
+- category: Film & Fernsehen
+  question: Wieviele Schnurbarthaare hat Kater Tom? (ausschreiben)
+  answer: Vier
+  level: baby
+
+- category: Geschichte
+  question: In welcher Stadt fand 1939 die Weltausstellung statt?
+  answer: New York
+  level: normal
+
+- category: Geschichte
+  question: Wann begann der 2. Weltkrieg?
+  answer: "1.9.1939"
+  level: normal
+
+- category: Geschichte
+  question: Wann wurde die Berliner Mauer gebaut?
+  answer: "1961"
+  level: normal
+
+- category: Geschichte
+  question: Welche Muttersprache sprach Königin Viktoria?
+  answer: Deutsch
+  level: normal
+
+- category: Geschichte
+  question: Welchem Rohstoff verdankte John. D. Rockefeller sein Geld?
+  answer: Erdöl
+  regexp: (Öl)
+  level: normal
+
+- category: Geschichte
+  question: Welchen Beinamen hatte König Karl III.?
+  answer: Der Dicke
+  regexp: Dicke
+  level: hard
+
+- category: Geschichte
+  question: Welcher König des 20. Jahrhunderts herrschte nur 325 Tage?
+  answer: Eduard VIII.
+  regexp: Eduard VIII
+  level: hard
+
+- category: Geschichte
+  question: Welcher amerik. Präsident bekam den Beinamen "Cowboy-Präsident"? (Vor- u. Nachname)
+  answer: "Theodore #Roosevelt#"
+  regexp: Theodore? Roosevelt
+  level: hard
+
+- category: Geschichte
+  question: Welches Land wurde 1707 mit England zu Grossbritannien vereinigt?
+  answer: Schottland
+  level: normal
+
+- category: Geschichte
+  question: Welches Land wurde 1707 mit England zu Grossbritannien vereinigt?
+  answer: Schottland
+  level: normal
+
+- category: Geschichte
+  question: Welches Schreibmaterial der alten Ägypter gab dem Papier seinen Namen?
+  answer: Papyrus
+  level: easy
+
+- category: Geschichte
+  question: Wer nannte sich Duce?
+  answer: Mussolini
+  level: normal
+
+- category: Geschichte
+  question: Wer tötete 1887 fast 1 Mio. Menschen, als er in China über die Ufer trat?
+  answer: '#Der gelbe Fluss# "Hwangho"'
+  regexp: (Gelber? Fluss|Hwangho)
+  level: hard
+
+- category: Geschichte
+  question: Wie nannte sich Angelo Giuseppe Roncali in seinem späteren Amt?
+  answer: Papst Johannes XXIII.
+  regexp: Johannes XXIII.?
+  level: hard
+
+- category: Geschichte
+  question: Wie nannten die Römer das heutige Wien?
+  answer: Vindobona
+  level: hard
+
+- category: Geschichte
+  question: Wo spielte sich der Mau-Mau Aufstand ab?
+  answer: Kenia
+  level: normal
+
+- category: Geschichte
+  question: Wo starb Karl Marx?
+  answer: London
+  level: normal
+
+- category: "Geschichte"
+  question: >-
+    Was durfte als erstes Konsumprodukt der kapitalistischen Welt
+    in Russland verkauft werden?
+  answer: Coca-Cola
+  regexp: Coca[- ]Cola
+  level: normal
+
+- category: Kultur
+  question: Welchen Tierkopf hat der Hindu-Gott der Weisheit?
+  answer: Elefantenkopf
+  level: normal
+
+- category: Kunst
+  question: >-
+    Was erhält man, wenn man Schlachthofabfälle kocht und
+    anschliessend die Brühe in Natronlauge neutralisiert?
+  answer: Suppenwürze
+  level: normal
+
+- category: Kunst
+  question: Welche Gemälde werden auf frischen, noch feuchten Putz gemalt?
+  answer: Fresken
+  regexp: (Fresken|Fresko)
+  level: normal
+
+- category: Kunst
+  question: Welcher Kunststil endstand als Reaktion auf das Rokoko?
+  answer: Klassizismus
+  level: hard
+
+- category: Kunst
+  question: Wer malte das Bild "Coca Cola grün"? (Vor- u. Nachname)
+  answer: Andy Warhol
+  level: normal
+
+- category: Kunst
+  question: Wer malte die "Maria von Medici" ?
+  answer: "Peter Paul #Rubens#"
+  level: normal
+
+- category: Kunst
+  question: Wie hiess die Malerin Moderson-Becker mit Vornamen?
+  answer: Paula
+  level: normal
+
+- category: Literatur
+  question: Welcher Schriftsteller trank täglich 50 Tassen Kaffee?
+  answer: "Honoré de #Balzac#"
+  level: normal
+
+- category: Literatur
+  question: Wer dachte sich für einen Roman einen grünen Bogenschützen als Täter aus? (Vor- u. Nachname)
+  answer: Edgar Wallace
+  level: normal
+
+- category: Literatur
+  question: Wer gründete die russische Zeitung "Prawda"?
+  answer: Lenin
+  level: normal
+
+- category: Literatur
+  question: Wer schrieb "Die Bekenntnisse des Hochstaplers Felix Krull"? (Vor- u. Nachname)
+  answer: Thomas Mann
+  level: normal
+
+- category: Literatur
+  question: Wer schrieb 1871 das Bühnenstück "Der Meineidbauer"? (Vor- u. Nachname)
+  answer: Ludwig Anzengruber
+  level: extreme
+
+- category: Literatur
+  question: Wer schrieb 1985 den Roman "Die Zeitmaschine"?
+  answer: "H. G. #Wells#"
+  level: normal
+
+- category: Literatur
+  question: Wer schrieb den Roman "Die Nackten und die Toten"?
+  answer: Norman Mailer
+  regexp: Mailer
+  level: extreme
+
+- category: Literatur
+  question: Wer schrieb die Komödie "Achterloo"?
+  answer: "Friedrich #Dürrenmatt#"
+  level: normal
+
+- category: Literatur
+  question: Wer schuf das Monster in Mary Shelleys Roman "Frankenstein"?
+  answer: Dr. Frankenstein
+  regexp: Frankenstein
+  level: normal
+
+- category: Literatur
+  question: Wie heisst Hägars Sohn?
+  answer: Hamlet
+  level: normal
+
+- category: Literatur
+  question: Wie heisst Romeos Geliebte Julia mit Nachnamen?
+  answer: Capulet
+  level: normal
+
+- category: Literatur
+  question: Wie heisst das Schauspiel von Tennessee Williams, in dem ein Mädchen Tiere aus Glas sammelt?
+  answer: "Die #Glasmenagerie#"
+  regexp: Glasmenagerie
+  level: hard
+
+- category: Literatur
+  question: Wie nannte sich Samual Longhorne Clemens als Schriftsteller?
+  answer: Mark Twain
+  level: normal
+
+- category: Literatur
+  question: Wie starb Heinrich von Kleist?
+  answer: Selbstmord
+  level: normal
+
+- category: Literatur
+  question: Wo lebte Shakespeares "Hamlet"?
+  answer: Dänemark
+  level: normal
+
+- category: Medizin
+  question: Was bewegt sich andauernd, wenn man unter Athetose leidet?
+  answer: Finger und Zehen
+  regexp: (Finger.*Zehen|Zehen.*Finger)
+  level: normal
+
+- category: Medizin
+  question: Wie wird Chloroform in der Fachsprache genannt?
+  answer: Trichlormethan
+  level: hard
+
+- category: Musik
+  question: In welcher Rockband spielte David Gilmoure?
+  answer: Pink Floyd
+  level: normal
+
+- category: Musik
+  question: Was für eine Kapelle begleitet einen Chor beim a-capella Gesang?
+  answer: "Gar #keine#"
+  regexp: keine
+  level: easy
+
+- category: Musik
+  question: Welche Popgruppe sang "Carbonara"?
+  answer: Spliff
+  level: normal
+
+- category: Musik
+  question: Welches Album der Rolling Stones war mit einem Reissverschluss verziert?
+  answer: Sticky Fingers
+  level: hard
+
+- category: Musik
+  question: Welches Monster bedroht Tamino im 1. Akt von Mozarts Zauberflöte?
+  answer: Riesenschlange
+  level: normal
+
+- category: Musik
+  question: Wer war der älteste der Beatles?
+  answer: Ringo Starr
+  level: normal
+
+- category: Musik
+  question: Wie nannte Verdi seine fünfte Oper?
+  answer: Ernani
+  level: hard
+
+- category: Musik
+  question: Wieviele Präludien und Fugen umfasst Bachs "wohltemperiertes Klavier"?
+  answer: "24"
+  level: normal
+
+- category: Spiele
+  question: Nenne eine der blauen Strassen beim Monopoly!
+  answer: Badstrasse oder Turmstrasse
+  regexp: (Badstrasse|Turmstrasse)
+  level: normal
+
+- category: Spiele
+  question: Nenne eine der gelben Strassen beim Monopoly!
+  answer: Goethestrasse, Schillerstrasse oder Lessingstrasse
+  regexp: (Goethestrasse|Schillerstrasse|Lessingstrasse)
+  level: normal
+
+- category: Spiele
+  question: Nenne eine der grünen Strassen beim Monopoly!
+  answer: Rathausplatz, Hauptstrasse oder Bahnhofsstrasse
+  regexp: (Rathausplatz|Hauptstrasse|Bahnhofsstrasse)
+  level: normal
+
+- category: Spiele
+  question: Wie nennt man beim Schach ein Unentschieden?
+  answer: Remis
+  level: normal
+
+- category: Sport
+  question: In welchem Jahr fand das erste Autorennen der Welt statt?
+  answer: "1894"
+  level: hard
+
+- category: Sport
+  question: In welcher Stadt findet jährlich die Weltmeisterschaft im Hundeschlittenrennen statt?
+  answer: Anchorage
+  level: hard
+
+- category: Sport
+  question: Welche Fechtwaffe wird im modernen olympischen Fünfkampf verwendet?
+  answer: Degen
+  level: normal
+
+- category: Sport
+  question: Welche Segelsportart wird ausschliesslich im Winter ausgeübt?
+  answer: Eissegeln
+  level: normal
+
+- category: Sport
+  question: Welchem Boxer gelang es als erstem, 3x Weltmeister im Schwergewicht zu werden?
+  answer: Muhammad Ali
+  regexp: M[ou]hamm?[ea]d Ali
+  level: normal
+
+- category: Sport
+  question: Welcher Stein wird bei der Herstellung von Billardtischen verwendet?
+  answer: Schiefer
+  level: normal
+
+- category: Sport
+  question: Wie viele Minuten dauert eine Halbzeit im Rasenhockey?
+  answer: "35"
+  level: normal
+
+- category: Sport
+  question: Wie viele Spieler spielen beim Rasenhockey in einer Mannschaft? (ausschreiben)
+  answer: Elf
+  level: normal
+
+- category: Sport
+  question: Wieviele Kegel stehen beim Bowling in der hinteren Reihe? (ausschreiben)
+  answer: Vier
+  level: normal
+
+- category: Sport
+  question: Wieviele Sekunden muss ein Haltegriff beim Judo gehalten werden, bevor er gewertet wird?
+  answer: "30"
+  level: normal
+
+- category: Sport
+  question: Wo fanden 1912 die olympischen Spiele statt?
+  answer: Stockholm
+  level: normal
+
+- category: Sprichwörter
+  question: Was ist aller Laster Anfang?
+  answer: Müssiggang
+  level: easy
+
+- category: Volkslieder
+  question: Es klappert die Mühle, .. ........... .... ?
+  answer: am rauschenden Bach
+  level: baby
+
+- category: Wissenschaft & Technik
+  question: Was essen Anthropophagen?
+  answer: Menschenfleisch
+  level: normal
+
+- category: Wissenschaft & Technik
+  question: Was ist ein Link-Trainer?
+  answer: Flugsimulator
+  level: normal
+
+- category: Wissenschaft & Technik
+  question: Was kann man trinken, es aber auch lassen?
+  answer: Wasser
+  level: normal
+
+- category: Wissenschaft & Technik
+  question: Was sieht man im Dunkeln, wenn man Tesa-Film von der Rolle abzieht?
+  answer: elektrisches Leuchten
+  level: normal
+
+- category: Wissenschaft & Technik
+  question: Was untersucht ein Speläologe?
+  answer: Höhlen
+  level: normal
+
+- category: Wissenschaft & Technik
+  question: Welchen Schmuckstein zerrieb man früher, um die Farbe Ultramarin herzustellen?
+  answer: Lapislazuli
+  level: normal
+
+- category: Wissenschaft & Technik
+  question: Welcher Pflanzensaft kann im Notfall als Ersatz für Blutplasma verwendet werden?
+  answer: Kokosnusssaft
+  regexp: Kokosnusss?aft
+  level: normal
+
+- category: Wissenschaft & Technik
+  question: Welches Instrument versagt seinen Dienst bei unter -39 Grad Celsius?
+  answer: "Das #Quecksilberthermometer#"
+  regexp: Quecksilber[- ]?thermometer
+  level: normal
+
+- category: Wissenschaft & Technik
+  question: Wie heisst die Mehrzahl von Lava?
+  answer: Laven
+  level: normal
+
+- category: Wissenschaft & Technik
+  question: Wie ist ein Lapislazuli meistens gefärbt?
+  answer: Blau
+  level: normal
+
+- category: Wissenschaft & Technik
+  question: Wie nennt man die Temperatur, bei der Dampf zu kondensieren beginnt?
+  answer: Taupunkt
+  level: normal
+
+- category: Wissenschaft & Technik
+  question: Wie oft umkreiste John Glenn als erster Amerikaner die Erde? (ausschreiben)
+  answer: Drei mal
+  regexp: Drei
+  level: normal
+
+- category: Wissenschaft & Technik
+  question: Wie viele Beine hat eine Zecke? (ausschreiben)
+  answer: Acht
+  level: normal
+
+- category: Wissenschaft & Technik
+  question: Wie viele Kalorien hat ein Liter Wasser?
+  answer: keine
+  level: normal
+
+- category: Wissenschaft und Technik
+  question: Wieviele Millionen Tierarten gelten bis heute als ausgestorben?
+  answer: "495"
+  level: normal

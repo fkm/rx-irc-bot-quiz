@@ -1,0 +1,730 @@
+title: viper
+comment: >-
+  imported Vipers version from Dienstag 21.01.2002 21:35 v.1
+  Edited by Viper (irc.fisi-base.net).
+author: Users
+lastEdit: 2002/02/09 03:42:45
+language: de
+
+questions:
+- category: Allgemeinwissen
+  question: Wenn mann eine Frau im 17. Jahrhundert Magdalene nannte war sie eine?
+  answer: Nutte
+  level: Normal
+
+- category: Allgemeinwissen
+  question: Wann wurde die Diät Coke erfunden?
+  answer: "1982"
+
+- category: Sternenzeichen
+  question: Wenn du am 23. März geboren wurdest, welches Sternenzeichen bist du?
+  answer: Widder
+
+- category: Sternenzeichen
+  question: Wenn du am 26. July geboren wurdest, welches Sternenzeichen bist du?
+  answer: Löwe
+
+- category: Musik
+  question: 60'ger Nennt die Sänger des Liedes "I Want You Back."
+  answer: The Jackson 5
+
+- category: Film & Fernsehn
+  question: In 1937 wurde Morgan ······· Schauspieler "Driving Mrs Daisy", geboren.
+  answer: Freeman
+
+- category: Film & Fernsehn
+  question: In welchen Film Spielten Dennis Quaid und Louis Gossett Jr mit?
+  answer: Enemy Mine
+
+- category: Allgemeinwissen
+  question: Der Name welcher Sudanesischen Stadt bedeutet so viel wie "Elefanten Rüssel"?
+  answer: Khartoum
+
+- category: Film & Fernsehn
+  question: Wie heisst der Erste Teil der Star Wars saga?
+  answer: Die Dunkle Bedrohung
+
+- category: Wissenschaft
+  question: Dieser russische Wissenschaftler gebrauchte Hunde, um bedingte Reflexe zu studieren.
+  answer: "Ivan #Pavlov#"
+
+- category: Wissenschaft
+  question: Was "erfand" Alexander Fleming im Jahre 1928?
+  answer: Antibiotika
+  regexp: (Antibioti[kc]a)
+  level: Easy
+
+- category: Geschichte
+  question: Wann wurde die Berliner Mauer gebaut?
+  answer: "1961"
+  level: normal
+
+- category: Allgemeinwissen
+  question: Nennen Sie die längste giftige Schlange.
+  answer: King Cobra
+
+- category: Wissenschaft
+  question: Während einer Schwangerschaft, um das wievielfache dehnt sich der menschliche Uterus aus?
+  answer: Fünf Hundertfache
+
+- category: Sex & Wissen
+  question: Das Wegschneiden der Hoden.
+  answer: Orchidectomy
+
+- category: Film & Fernsehn
+  question: Gebore am 16. April 1889, Er war der Star im Film "City Lights" · 1931.
+  answer: "Charlie #Chaplin#"
+
+- category: Film & Fernsehn
+  question: Vor welchem Tier hat der Vatter von Indiana Jones Angst?
+  answer: Ratten
+
+- category: Sport
+  question: Ski-spring meister 2002
+  answer: Sven Hannawald
+
+- category: Geographie
+  question: Die Hauptstadt von Swaziland
+  answer: Mbabane
+
+- category: Film & Fernsehn
+  question: Wo ging Clark Kent zur Universität?
+  answer: Metropolis University
+
+- category: Abkürzungen
+  question: Wofür steht S.O.S.?
+  answer: Save Our Souls
+
+- category: Abkürzungen
+  question: Wofür steht N.A.S.A?
+  answer: National Aeronautics and Space Administration
+
+- category: Allgemeinwissen
+  question: Wieviele Motoren hat ein B52 bomber?
+  answer: acht
+  regexp: (acht|8)
+
+- category: Allgemeinwissen
+  question: Was für ein Flugzeug ist die Airforce One?
+  answer: Boeing 747
+
+- category: Alcohol
+  question: Aus welcher Pflanze wird Tequila gemacht?
+  answer: Kaktus
+  regexp: ([KC]a[kc]tus)
+
+- category: Allgemeinwissen
+  question: Am 11. September 2001 sind 2 Flugzeuge in das World Trade Center geflogen, wer ist dafür Verantwortlich?
+  answer: "#Osama# Ibn Ladin"
+
+- category: Wissenschaft
+  question: Wieviele Liter Luft enthält eine Erwachsene Lunge?
+  answer: Fünf
+  regexp: (fuenf|5)
+
+- category: Allgemeinwissen
+  question: Wo ist das Guggenheim Museum?
+  answer: New York
+
+- category: Allgemeinwissen
+  question: Traumatophobie- ist die Angst vor ······
+  answer: Verletzungen
+
+- category: Sport
+  question: Seit wann gehoert Reiten zu den olympischen Disziplinen?
+  answer: "1900"
+
+- category: Film & Fernsehn
+  question: Wie heisst die kleine Landpomeranze, die fuer viel Trubel in dem Film "My Girl 2 - Meine grosse Liebe" sorgt?
+  answer: Vada
+
+- category: Sport
+  question: Wie heisst die Baseball-Liga in der USA?
+  answer: Major Baseball League
+
+- category: Computer
+  question: Wer war der antike Vorlaeufer unserer Computer Hacker? (oder so aehnlich jedenfalls ;)
+  answer: Odysseus
+
+- category: Wissenschaft
+  question: Sprengkoerper, dessen Explosionsenergie hpts. durch Kernfusion erzeugt wird?
+  answer: Wasserstoffbombe
+
+- category: Politik
+  question: Wie nennt man ein Einspruchsrecht noch?
+  answer: Veto
+
+- category: Geographie
+  question: Zu welchem Land gehoert Kap Horn?
+  answer: Chile
+
+- category: Geschichte
+  question: Diese Französische Königin wurde im Jahre 1793 Geköpft
+  answer: Marie Antoinette
+
+- category: Geschichte
+  question: 3. amerikanische Praesident? (von 1801-1809)
+  answer: "Thomas #Jefferson#"
+
+- category: Allgemeinwissen
+  question: Welches europaeische Land fuehrte im August 1983 sein erstes Steuergesetz ein?
+  answer: Andorra
+
+- category: Geographie
+  question: Wie heisst die politische Hauptstadt von Groenland?
+  answer: Kopenhagen
+  regexp: ([KC]openhagen)
+
+- category: Film & Fernsehn
+  question: Eine Serie in der Will Smith mitspielte
+  answer: Der Prinz von Bel Air
+
+- category: Politik
+  question: Am 31.12.2001 um 00:00:00 verliess uns die Deutsch Mark, was hat die Ersetzt?
+  answer: Der Euro
+
+- category: Wissenschaft
+  question: >-
+    In 3 Phasen verlaufende Ausstossung des Fetus aus dem Mutterleib
+    durch rhythmische, schmerzhafte Kontraktionen der Gebaermuttermuskulatur
+    (Wehen): a) Erweiterung des Muttermundes und Sprung der Fruchtblase; b)
+    Ausstossung der Frucht, normalerweise mit dem Hinterkopf voran; c)
+    Ausstossung von Mutterkuchen und Eihaeuten. Unmittelbar nach der ......(?)
+    wird dem Kind die Nabelschnur durchtrennt.
+  answer: Geburt
+
+- category: Geschichte
+  question: Welches gefaehrliche Umweltgift verursachte im Juli 1976 die "Seveso-Katastrophe"?
+  answer: Dioxin
+
+- category: Film & Fernsehn
+  question: "Wie heisst das Schiff der Commonwealth (Captain: Dillan Hunt)?"
+  answer: "#Andromeda# Ascendent"
+
+- category: Film & Fernsehn
+  question: Wie heisst der Erste Offizier der Andromeda?
+  answer: Bekka Valentine
+
+- category: Film & Fernsehn
+  question: Wie heisst der Medizinische Offizier anboard der Andromeda
+  answer: Trance Gemini
+
+- category: Geschichte
+  question: Welches Buch schrieb Adolf Hitler?
+  answer: Mein Kampf
+
+- category: Musik
+  question: Woran starb der Komponist Peter Iljitsch Tschaikowsky (1840-1893)?
+  answer: Cholera
+
+- category: Film & Fernsehn
+  question: Wie heisst der Erfinder der Star Trek Serien
+  answer: Gene Roddenberry
+
+- category: Allgemeinwissen
+  question: Wie ist die inoffizielle Bezeichnung fuer die amerikanischen Unterseeboot-Streitkraefte?
+  answer: Silent Service
+
+- category: Geschichte
+  question: Wie nennt man die koeniglose Zeit in Deutschland 1257-1273?
+  answer: Interregnum
+
+- category: Allgemeinwissen
+  question: Woraus werden mongolische Zelte gemacht?
+  answer: Filz
+
+- category: Musik
+  question: Welcher Saenger wurde als einziger sowohl in die Rock & Roll- als auch in die Country-Hall of Fame aufgenommen?
+  answer: "Johnny #Cash#"
+
+- category: Religion
+  question: Wie heisst die heiligste Stadt der Hindus?
+  answer: Benares
+
+- category: Religion
+  question: Wie heisst die heiligste Stadt der Moslems?
+  answer: Mekka
+  regexp: (Me[ck][ck]a)
+
+- category: Geographie
+  question: "Was zum raten: Europaeisches Land?"
+  answer: "Luxemburg"
+
+- category: Film & Fernsehen
+  question: Wie heisst die Freundin von Eric Draven "The Crow"?
+  answer: "Shelly #Webster#"
+
+- category: Film & Fernsehen
+  question: Wie heisst der Hauptdarsteller in dem Film "The Crow 2"?
+  answer: Ashe
+
+- category: Computer
+  question: JunITS (Junior IT Systemhaus der DB) Computer Lieferrant?
+  answer: Maxdata
+
+- category: Computer
+  question: Welche Firma entwickelte den MP3 Codec?
+  answer: "Fraunhofer #Institut#"
+
+- category: Computer
+  question: Rechnen sie die Zahl 16 in Hexadezimal um .....
+  answer: "10"
+
+- category: Politik
+  question: 1 Euro = ... DM (Januar 2002)?
+  answer: "1,95583"
+
+- category: Computer
+  question: Welches 3d Animations tool hat eine der Schnellsten Rendet Engines?
+  answer: Cinema 4d
+
+- category: Computer
+  question: Erfinder von Quake (Die Firma)?
+  answer: "id #software#"
+
+- category: Film & Fernsehen
+  question: Wie heisst der Captain der NCC 74656?
+  answer: "Cathryn #Janeway#"
+
+- category: Film & Fernsehen
+  question: Der koch dessen Essen keiner auf der Voyager mag heisst?
+  answer: Neelix
+
+- category: Film & Fernsehen
+  question: Laurence Fishburne spielte die Rolle des ...... im Film "Die Matrix"
+  answer: Morpheus
+
+- category: Film & Fernsehen
+  question: Womit haben se die Aliens in "Evolution" bezwungen?
+  answer: "Head & Shoulders #Shampoo#"
+
+- category: Computer
+  question: Erfinder von Daikatana (ehemals bei id)
+  answer: "John #Romero#"
+
+- category: Computer
+  question: Wie hiess der Erste Wegweisende 3D Shooter?
+  answer: Doom
+
+- category: Computer
+  question: Welcher Hersteller von Grafiksoftware wurde von Corel übernommen?
+  answer: Micrografx
+
+- category: Allgemeinwissen
+  question: Wie lautet die Telefon vorwahl für Leipzig?
+  answer: "0341"
+
+- category: Sport
+  question: Wenn du beim Bowling alle Pins umschmeisst nennt sich das .....
+  answer: Strike
+
+- category: Sport
+  question: Wieviele Pins gibt es beim Bowling (ausgeschrieben)?
+  answer: Zehn
+
+- category: Allgemeinwissen
+  question: Welche Augenzahl ist gegenüber der Fünf auf einem Standard Würfel (Ausgeschrieben)?
+  answer: "Zwei"
+
+- category: Computer
+  question: Was bedeutet SGML?
+  answer: Standard Generalized Markup Language
+
+- category: Allgemeinwissen
+  question: Wieviele Ecken hat ein Würfel?
+  answer: "Acht"
+
+- category: Allgemeinwissen
+  question: Wieviele Ecken hat ein Oktaeder?
+  answer: Sechs
+
+- category: Allgemeinwissen
+  question: Was ist Natriumchlorid?
+  answer: Salz
+
+- category: Musik
+  question: Wer Schrieb dieses lied "United We Stand - What More Can I Give"
+  answer: "Michael #Jackson#"
+
+- category: Allgemeinwissen
+  question: Der Brechungsindex eines Diamanten ist?
+  answer: "2.4"
+
+- category: Wissenschaft
+  question: Was ist HNO3?
+  answer: Salpetersäure
+  regexp: (Salpetersaeure)
+
+- category: Allgemeinwissen
+  question: Säurungsmittel in Cola?
+  answer: Phosphorsäure
+  regexp: (Phosphorsaeure)
+
+- category: Allgemeinwissen
+  question: Größter Konkurennt von Coka Cola
+  answer: Pepsi
+
+- category: Quiz
+  question: Mit Welchem Befehl stelle ich in diesem Quiz Benutzerfragen?
+  answer: "!userquest"
+
+- category: Allgemeinwisse
+  question: Seit wann gab es die Deutsch Mark?
+  answer: "1948"
+
+- category: Allgemeinwissen
+  question: An der Küste Australiens gibt es ein Weltbekanntes Riff, Wie Heisst es?
+  answer: "Großes #Barriereriff#"
+
+- category: Allgemeinwissen
+  question: Sonstige Bezeichnung von Micro-Batterien/Accus
+  answer: "AAA #Triple A#"
+
+- category: Natur
+  question: Welche Gorillaforscherin wurde 1985 ermordet?
+  answer: "Dian #Fossey#"
+
+- category: Allgemeinwissen
+  question: Was bedeutet das Russische wort "Sputnik" auf Deutsch übersetzt?
+  answer: Reisegefährte
+
+- category: Allgemeinwissen
+  question: Wie heisst das Schiff von Charles Darwin?
+  answer: Beagle
+
+- category: Film & Fernsehen
+  question: Wer spielt Rose in Titanic
+  answer: Kate Winslet
+
+- category: Geschichte
+  question: Das Legendäre Goldland Südamerikas
+  answer: Eldorado
+
+- category: Geschichte
+  question: Welche deutsche Insel wurde in der Kolonialzeit für Zanzibar getauscht?
+  answer: Helgoland
+
+- category: Astronomie
+  question: Welcher Planet wird der Gasriese genannt?
+  answer: Jupiter
+
+- category: Astronomie
+  question: Ein Bekannter Mond des Jupiter
+  answer: Europa
+
+- category: Computer
+  question: ActiveX war die Antwort von Microsoft auf?
+  answer: Java
+
+- category: Computer
+  question: Wer ist im Cyber Zeitalter als Dr. Jekyll und Mr. Hyde bekannt?
+  answer: "System #Administratoren#"
+
+- category: Computer
+  question: Wofür steht die Kürzung ARPAnet?
+  answer: Advanced Research Projects Agency Network
+
+- category: "Computer"
+  question: Wofür steht die Kürzung ASCII?
+  answer: American Standard for Information Exchange
+
+- category: Film & Fernsehen
+  question: Welchen Beruf hat Bender aus der Trickserie "Futurama"?
+  answer: Eisenbieger
+
+- category: Film & Fernsehen
+  question: 'Wer spielt die Rolle des Duncan McLeoud in der Serie "Highlander"? '
+  answer: Adrian Paul
+
+- category: Allgemeinwissen
+  question: "Das Jahr 2002 in Römischen Zahlen ist?"
+  answer: MMII
+
+- category: Wissenschaft
+  question: Was ist Leitfähig und wird in zusammenhang mit EKG und EEG verwendet?
+  answer: "Elektroden #Leitgel#"
+
+- category: "Film & Fernsehen"
+  question: Wie heisst der Held aus der Anime serie "DragonballZ"?
+  answer: "Son #Gokku#"
+
+- category: Film & Fernsehen
+  question: Welcher James Bond schauspieler spielte auch im Film "Mars Attacks" mit?
+  answer: Pierce Brosnan
+
+- catergory: Computer
+  question: Was bedeutet IDE?
+  answer: Integrated Drive Electronics
+
+- catergory: Wissenschaft
+  question: Was fuer eine Pflanze ist die Totentrompete?
+  answer: Pilz
+
+- catergory: Geschichte
+  question: Wer verkuendete am 9. November 1989 (mehr oder weniger aus Versehen) die Maueroeffnung?
+  answer: "Guenter #Schabowski#"
+  level: Hard
+
+- catergory: Wissenschaft
+  question: Zu welchem Gelenktyp gehoert das Schultergelenk (erlaubt Bewegungen in allen Ebenen)?
+  answer: Kugelgelenk
+  level: Easy
+
+- catergory: Geographie
+  question: An welchem Fluss liegt Heidelberg?
+  answer: Neckar
+
+- catergory: Geschichte
+  question: Woher stammt der Abakus?
+  answer: Ägypten
+  regexp: (AEgypten)
+
+- catergory: Allgemeinwissen
+  question: Wie hiess die plutoniumhaltige Raumsonde, die im Jahr 1997 startete?
+  answer: Cassini
+  level: Normal
+
+- catergory: Wissenschaft
+  question: Auf welchem Element basiert Silikon?
+  answer: Silizium
+  level: Baby
+
+- catergory: Wissenschaft
+  question: Wie nennt man Oxidation und Reduktion in einer Gleichung?
+  answer: Redox-Reaktion
+  level: Normal
+
+- catergory: Geschichte
+  question: Wer leitete 1989 die Montags Demos in Leipzig?
+  answer: "Pfarrer #Führer#"
+
+- catergory: Musik
+  question: (nach dem indischen Bundesstaat), spirituelle Form der Techno-Musik, gespielt u.a. mit fernoestlichen Instrumenten?
+  answer: Goa-Trance
+  level: Easy
+
+- catergory: Computer
+  question: Fuer welchen Variablentyp ist das Zeichen "@" ein Vorzeichen in der Programmiersprache PERL?
+  answer: Array
+  level: Normal
+
+- catergory: Allgemeinwissen
+  question: Ein Strom der von Florida bis nach Europa reicht?
+  answer: Golfstrom
+
+- catergory: Geschichte
+  question: Wo (Stadt) wurde Karl der Grosse zum Kaiser gekroent?
+  answer: Rom
+
+- catergory: Allgemeinwissen
+  question: Wie heissen die Eckzaehne eines Jagdhundes?
+  answer: Faenge
+
+- category: Geographie
+  question: In welchem Gebiet lebt das Alpaka?
+  answer: Anden
+
+- category: Scherzfrage
+  question: Was hat Fluegel und kann nicht Fliegen, einen Ruecken und kann nicht darauf liegen, nur ein Bein und kann doch laufen?
+  answer: Nase
+
+- category: Wissenschaft
+  question: Wie nennt man einen blassblauen Edelstein?
+  answer: Aquamarin
+
+- category: Film & Fernsehen
+  question: Wie heisst der bekannte Film mit J. Travolta, der schnell zum Kultfilm aufstieg?
+  answer: Pulp Fiction
+
+- category: Allgemeinwissen
+  question: Wie nennen die Pfadfinder ein internationales Treffen?
+  answer: Jamboree
+
+- category: Scherzfrage
+  question: Wer frisst in der Not Fliegen?
+  answer: Teufel
+
+- category: Geschichte
+  question: Wie hiess die von den Etruskern angelegte grosse Rennbahn fuer Festspiele in Rom?
+  answer: Maximus
+
+- category: Geschichte
+  question: Wie hiess Hitlers Leib-Architekt (spaeter Ruestungsminister)?
+  answer: "Albert #Speer#"
+
+- category: Allgemeinwissen
+  question: Was fressen Pandas?
+  answer: "#Bambus#sprossen"
+
+- category: Film & Fernsehen
+  question: Fuer welche Straftat kam Sophia Loren ins Gefaengnis?
+  answer: Steuerhinterziehung
+
+- category: Allgemeinwissen
+  question: Wieviele Schleusen verschliessen den Suezkanal? (ausschreiben!)
+  answer: "Null"
+
+- category: Technik
+  question: Mit was misst man die Reinheit der Luft?
+  answer: Eudiometer
+
+- category: Allgemeinwissen
+  question: Wie nennt man ein freistehendes, kleines Gebaeude in einem Garten (frz.)?
+  answer: Pavillon
+
+- category: Musik
+  question: Welcher Saenger hat fuer Peter, Paul and Mary das Lied "Leavin' on a jet plane" geschrieben?
+  answer: "John #Denver#"
+
+- category: Musik
+  question: Wer komponierte den Liederzyklus "Frauenlieb' und -leben"?
+  answer: "Robert #Schumann#"
+
+- category: Mythologie
+  question: Merriese der Nordischen Mythologie?
+  answer: Aegir
+
+- category: Sport
+  question: Fussball - Wie hiess die deutsche Torschuetzenkoenigin 2000 (33 Tore)? (voller Name)?
+  answer: Inka Grings
+
+- category: Musik
+  question: Wie viele Klavierkonzerte schrieb Beethoven?
+  answer: Fünf
+  regexp: (fuenf|5)
+
+- category: Religion
+  question: Wie nennt man die Religion von Voelkern, die an seelische Maechte in allen Naturgewalten und Naturvorkommnissen glauben?
+  answer: Animismus
+  level: Hard
+
+- category: Allgemeinwissen
+  question: Die groesste Primzahl vor 50?
+  answer: "47"
+
+- category: Allgemeinwissen
+  question: Wie viele Kinder sterben alljaehrlich an Mangelernaehrung (in Millionen)?
+  answer: Sieben
+
+- category: Sport
+  question: Aus wievielen Feldspielern besteht eine Basketball-Mannschaft? (ausschreiben)
+  answer: Fünf
+  regexp: (fuenf|5)
+
+- category: Geographie
+  question: Wo befindet sich der groesste Bahnhof der Welt?
+  answer: New York
+
+- category: Allgemeinwissen
+  question: Bei welcher Stadt muendet der Main in den Rhein?
+  answer: Mainz
+
+- category: Wissenschaft
+  question: Wie heissen die groessten noch lebenden Landechsen?
+  answer: "Komodo #Warane#"
+
+- category: Technik
+  question: Reaktortyp, der nicht spaltbares Uran in spaltbares Plutonium fuer Kernkraftwerke umwandelt?
+  answer: Schneller Brueter
+  level: Hard
+
+- category: Film & Fernsehen
+  question: "Werbung: Wie heisst eine Katze aus der Whiskas Werbung, wo alte Ausschnitte gezeigt werden?"
+  answer: Muschi
+
+- category: Geographie
+  question: Wie heisst der Noerdlicheste Ort Deutschlands mit Festlandverbindung?
+  answer: List
+
+- category: Sport
+  question: Wie nennt man im Rudersport die Person, die Tempo und Rhytmus der Schlaege im Boot bestimmt?
+  answer: Schlagmann
+
+- category: Geschichte
+  question: '"Hier stehe ich nun, ich kann nicht anders", wer soll das gesagt haben? (Vor- und Nachname!)'
+  answer: "Martin #Luther#"
+
+- category: Allgemeinwissen
+  question: Welcher Marder unterscheidet sich im Namen nur in einem Buchstaben vom groessten Affen?
+  answer: Zorilla
+
+- category: Wissenschaft
+  question: Welches Tier hat im Verhaeltnis zur Koerpergroesse das groesste Gehirn?
+  answer: Ameise
+
+- category: Wissenschaft
+  question: Was ist ein "Prolaps" medizinisch gesehen?
+  answer: Vorfall
+
+- category: Film & Fernsehen + Literatur
+  question: Wie hiess Tarzans Lieblings-Schimpansin?
+  answer: Judy
+
+- category: Religion
+  question: Wie nennt man die Gegensteuerung der katholischen Kirche gegen den Protestantismus?
+  answer: Gegenreformation
+
+- category: Wissenschaft
+  question: Wichtiges Teil eines ganzen, ohne welches die lebenswichtige Fluessigkeit nicht in den vorgesehenen Leitungswegen zirkuliert.
+  answer: Herz
+
+- category: Allgemeinwissen
+  question: Wo befanden sich die "haengenden Gaerten der Semiramis"?
+  answer: Babylon
+
+- category: Allgemeinwissen
+  question: Wie viel kg Papier pro Kopf verbrauchen Schweizer jaehrlich ca.?
+  answer: "200"
+
+- category: Sport
+  question: In welcher Sportart verwendet man die Begriffe "Double In", "Double Bull" und "Check"?
+  answer: Dart
+
+- category: Sport
+  question: Wo sollten 1940 die Olympischen Spiele stattfinden?
+  answer: Tokio
+
+- category: Geographie
+  question: >-
+    Heute nennt sich dieser Staat "Demokratische Republik Kongo", wobei
+    das "Demokratisch" wohl nur zur Unterscheidung von der "Republik Kongo"
+    dient. Und wie hiess der Staat davor?
+  answer: Zaire
+
+- category: Allgemeinwissen
+  question: Was ist ein "Hasardeur"?
+  answer: Glücksspieler
+  regexp: (gluecksspieler)
+
+- category: Allgemeinwissen
+  question: Wie heisst die groesste Wueste Asiens?
+  answer: Gobi
+
+- category: Astronomie
+  question: Wie gross ist die Milchstrasse?
+  answer: Lichtjahre
+
+- category: Film & Fernsehen
+  question: "Mal ne (leichte) Simpsons-Frage: Wie heisst der Clown bei den Simpsons?"
+  answer: Krusty
+  regexp: ([KC]rusty)
+
+- category: Allgemeinwissen
+  question: Welches war das groesste Passagierschiff der Welt?
+  answer: Queen Elisabeth
+
+- category: Computer
+  question: Bekannter TV-Karten Hersteller
+  answer: Hauppauge
+
+- category: Religion
+  question: In welchem Land steht das Rila-Kloster?
+  answer: Bulgarien
+
+- category: Allgemeinwissen
+  question: Wie lange braucht ein Space Shuttle ca. um die Erde zu Umkreisen (in Minuten)?
+  answer: "90"
+
+- category: Film & Fernsehen
+  question: Wie heisst die Neue Serie (2002) von James Cammeron "Titanic"?
+  answer: Dark Angel

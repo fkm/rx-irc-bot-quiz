@@ -1,0 +1,10 @@
+General commands
+!score    Show the current score.
+!help     Show the help.
+
+Spectator commands
+!play     Start/join a new game.
+
+Player commands
+!revolt   Vote to resolve the question.
+!quit     Leave the game.
