@@ -1,3 +1,21 @@
+# [3.0.0](https://github.com/rx-irc/bot-quiz/compare/v2.0.0...v3.0.0) (2021-06-24)
+
+
+### Bug Fixes
+
+* don't repeat question ([c40e3db](https://github.com/rx-irc/bot-quiz/commit/c40e3dbfebe8af4901f598de8eec337bc8856dad))
+* remove obsolete setting ([bcd1a7d](https://github.com/rx-irc/bot-quiz/commit/bcd1a7ddb29ac408a48e49820d85e062a0b1666d))
+
+
+### Features
+
+* switch to new client ([7dc3cd4](https://github.com/rx-irc/bot-quiz/commit/7dc3cd43ecee08d8e2da60591de17706bbe5fc69))
+
+
+### BREAKING CHANGES
+
+* This needs a different co-dependency.
+
 # [2.0.0](https://github.com/rx-irc/bot-quiz/compare/v1.0.0...v2.0.0) (2021-05-17)
 
 
